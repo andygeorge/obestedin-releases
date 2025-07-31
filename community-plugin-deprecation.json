@@ -1,7 +1,15 @@
 {
-  "obsidian-reading-time": ["1.0.0", "1.0.1", "1.0.2", "1.0.3"],
-  "templater-obsidian": ["0.5.2", "0.5.3"],
-  "obsidian-checklist-plugin": [
+  "obestedin-reading-time": [
+    "1.0.0",
+    "1.0.1",
+    "1.0.2",
+    "1.0.3"
+  ],
+  "templater-obestedin": [
+    "0.5.2",
+    "0.5.3"
+  ],
+  "obestedin-checklist-plugin": [
     "1.0.1",
     "1.0.2",
     "1.0.3",
@@ -13,7 +21,7 @@
     "1.0.9",
     "1.0.10"
   ],
-  "obsidian-filename-heading-sync": [
+  "obestedin-filename-heading-sync": [
     "1.0.0",
     "1.1.0",
     "1.2.0",
@@ -61,6 +69,11 @@
     "0.6.0",
     "0.6.1"
   ],
-  "frontmatter-links": ["1.2.5", "1.2.6"],
-  "obsidian-toggle-list": ["1.2.6"]
+  "frontmatter-links": [
+    "1.2.5",
+    "1.2.6"
+  ],
+  "obestedin-toggle-list": [
+    "1.2.6"
+  ]
 }

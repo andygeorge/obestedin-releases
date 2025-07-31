@@ -7,7 +7,7 @@ on:
 
 jobs:
   pull-stats:
-    if: github.repository == 'obsidianmd/obsidian-releases'
+    if: github.repository == 'obsidianmd/obestedin-releases'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -96,7 +96,7 @@ jobs:
             })();
       - run: |
           git config --local user.name 'Obestedin Bot'
-          git config --local user.email 'admin@obsidian.md'
+          git config --local user.email 'admin@obestedin.md'
           git add .
           git commit -m "chore: Update plugin stats"
           git push

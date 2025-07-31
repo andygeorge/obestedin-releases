@@ -1,5 +1,5 @@
 {
-  "nldates-obsidian": {
+  "nldates-obestedin": {
     "0.3.2": 786,
     "0.3.1": 2501,
     "0.3.0": 151,
@@ -23,7 +23,7 @@
     "updated": 1701462704000,
     "0.6.2": 193494
   },
-  "hotkeysplus-obsidian": {
+  "hotkeysplus-obestedin": {
     "0.2.4": 1518,
     "0.2.3": 122,
     "0.2.1": 1336,
@@ -33,7 +33,7 @@
     "0.2.6": 315,
     "updated": 1639000981000
   },
-  "obsidian-git": {
+  "obestedin-git": {
     "1.5.0": 8166,
     "1.4.0": 2108,
     "1.3.0": 36,
@@ -190,7 +190,7 @@
     "1.8.1": 102,
     "1.11.3": 6505
   },
-  "table-editor-obsidian": {
+  "table-editor-obestedin": {
     "0.8.2": 3882,
     "0.8.1": 648,
     "0.8.0": 1761,
@@ -240,7 +240,7 @@
     "0.22.0": 135488,
     "0.22.1": 522088
   },
-  "leader-hotkeys-obsidian": {
+  "leader-hotkeys-obestedin": {
     "0.1.1": 438,
     "0.0.1": 75,
     "downloads": 12747,
@@ -249,7 +249,7 @@
     "updated": 1674526368000,
     "0.2.1": 8909
   },
-  "recent-files-obsidian": {
+  "recent-files-obestedin": {
     "0.0.5": 223,
     "0.0.4": 33,
     "downloads": 798242,
@@ -284,7 +284,7 @@
     "1.7.3": 37200,
     "1.7.4": 143236
   },
-  "ledger-obsidian": {
+  "ledger-obestedin": {
     "0.0.5": 89,
     "downloads": 33777,
     "0.0.2": 16,
@@ -308,7 +308,7 @@
     "0.3.2": 13881,
     "0.3.3": 12827
   },
-  "note-refactor-obsidian": {
+  "note-refactor-obestedin": {
     "1.6.1": 16002,
     "1.6.0": 1043,
     "1.5.2": 1166,
@@ -472,7 +472,7 @@
     "0.5.10": 1863,
     "0.5.11": 147
   },
-  "obsidian-reading-time": {
+  "obestedin-reading-time": {
     "1.0.4": 10697,
     "1.0.3": 177,
     "1.0.2": 120,
@@ -506,7 +506,7 @@
     "2.0.1": 23306,
     "2.1.0": 3552
   },
-  "obsidian-vimrc-support": {
+  "obestedin-vimrc-support": {
     "0.2.3": 354,
     "0.2.2": 95,
     "0.2.1": 156,
@@ -641,7 +641,7 @@
     "5.1.0": 20829,
     "5.2.0": 2239
   },
-  "obsidian-day-planner": {
+  "obestedin-day-planner": {
     "0.5.8": 210668,
     "0.5.7": 1637,
     "0.5.6": 355,
@@ -711,7 +711,7 @@
     "0.26.3": 602,
     "0.28.0": 43537
   },
-  "review-obsidian": {
+  "review-obestedin": {
     "1.6.0": 2589,
     "1.5.1": 198,
     "1.5.0": 112,
@@ -730,7 +730,7 @@
     "1.6.5": 11954,
     "1.6.6": 6097
   },
-  "obsidian-hider": {
+  "obestedin-hider": {
     "1.0.5": 5142,
     "1.0.4": 292,
     "1.0.3": 225,
@@ -757,7 +757,7 @@
     "1.5.1": 93443,
     "1.5.0": 918
   },
-  "obsidian-minimal-settings": {
+  "obestedin-minimal-settings": {
     "2.5.0": 11118,
     "2.4.1": 1148,
     "2.4.0": 35,
@@ -822,7 +822,7 @@
     "8.1.1": 341511,
     "8.1.0": 125
   },
-  "obsidian-discordrpc": {
+  "obestedin-discordrpc": {
     "1.3.2": 337,
     "1.2.0": 73,
     "1.1.0": 26,
@@ -839,7 +839,7 @@
     "updated": 1692003751000,
     "1.5.1": 17591
   },
-  "templater-obsidian": {
+  "templater-obestedin": {
     "0.5.7": 7716,
     "0.5.6": 746,
     "0.5.5": 221,
@@ -1012,7 +1012,7 @@
     "0.10.0": 74256,
     "0.10.1": 221044
   },
-  "workbench-obsidian": {
+  "workbench-obestedin": {
     "1.6.1": 20395,
     "1.6.0": 155,
     "1.5.0": 413,
@@ -1028,7 +1028,7 @@
     "1.6.3": 29,
     "1.6.2": 36
   },
-  "obsidian-latex-environments": {
+  "obestedin-latex-environments": {
     "0.2.1": 5546,
     "0.2.0": 50,
     "0.1.3": 45,
@@ -1044,7 +1044,7 @@
     "0.4.1": 911,
     "0.4.2": 11968
   },
-  "obsidian-rtl": {
+  "obestedin-rtl": {
     "0.0.4": 147,
     "0.0.3": 57,
     "0.0.2": 84,
@@ -1094,7 +1094,7 @@
     "downloads": 19468,
     "updated": 1605230914000
   },
-  "obsidian-link-indexer": {
+  "obestedin-link-indexer": {
     "1.0.0": 6584,
     "0.1.1": 69,
     "0.1.0": 73,
@@ -1107,7 +1107,7 @@
     "0.0.4": 24,
     "updated": 1607203333000
   },
-  "macOS-keyboard-nav-obsidian": {
+  "macOS-keyboard-nav-obestedin": {
     "1.1.2": 7226,
     "1.1.1": 38,
     "1.1.0": 77,
@@ -1170,7 +1170,7 @@
     "1.10.0": 21270,
     "1.10.1": 36742
   },
-  "wikilinks-to-mdlinks-obsidian": {
+  "wikilinks-to-mdlinks-obestedin": {
     "0.0.12": 17966,
     "0.0.9": 89,
     "0.0.8": 123,
@@ -1240,7 +1240,7 @@
     "1.4.0": 9364,
     "1.5.0": 4477
   },
-  "cm-typewriter-scroll-obsidian": {
+  "cm-typewriter-scroll-obestedin": {
     "0.1.0": 2483,
     "0.0.2": 790,
     "0.0.1": 97,
@@ -1251,14 +1251,14 @@
     "0.2.2": 72183,
     "updated": 1649908247000
   },
-  "obsidian-youglish-plugin": {
+  "obestedin-youglish-plugin": {
     "0.0.2": 874,
     "0.0.1": 61,
     "downloads": 11654,
     "0.0.3": 10719,
     "updated": 1643018003000
   },
-  "obsidian-dangling-links": {
+  "obestedin-dangling-links": {
     "0.0.2": 1593,
     "downloads": 16310,
     "0.3.0": 14502,
@@ -1280,14 +1280,14 @@
     "0.0.11": 8533,
     "updated": 1664468241000
   },
-  "maximise-active-pane-obsidian": {
+  "maximise-active-pane-obestedin": {
     "0.0.2": 616,
     "0.0.1": 483,
     "downloads": 15017,
     "0.0.3": 13918,
     "updated": 1611874137000
   },
-  "obsidian-juliandate": {
+  "obestedin-juliandate": {
     "1.0.3": 262,
     "downloads": 4239,
     "1.0.5": 3930,
@@ -1297,7 +1297,7 @@
     "v1.0.0": 12,
     "updated": 1626876571000
   },
-  "obsidian-emoji-toolbar": {
+  "obestedin-emoji-toolbar": {
     "0.1.1": 2207,
     "0.1.0": 251,
     "downloads": 378378,
@@ -1311,7 +1311,7 @@
     "0.4.0": 35231,
     "0.4.1": 214053
   },
-  "obsidian-fullscreen-plugin": {
+  "obestedin-fullscreen-plugin": {
     "0.1.0": 3304,
     "downloads": 38100,
     "0.1.1": 5351,
@@ -1325,7 +1325,7 @@
     "downloads": 11580,
     "updated": 1607234058000
   },
-  "obsidian-mind-map": {
+  "obestedin-mind-map": {
     "1.1.0": 682056,
     "1.0.3": 465,
     "1.0.2": 210,
@@ -1337,7 +1337,7 @@
     "0.1.0": 18,
     "updated": 1607877184000
   },
-  "flashcards-obsidian": {
+  "flashcards-obestedin": {
     "1.0.7": 490,
     "1.0.5": 195,
     "1.0.4": 21,
@@ -1385,7 +1385,7 @@
     "downloads": 8137,
     "updated": 1607576990000
   },
-  "obsidian-citation-plugin": {
+  "obestedin-citation-plugin": {
     "0.4.1": 3264,
     "0.4.0": 162,
     "0.3.4": 436,
@@ -1404,7 +1404,7 @@
     "0.4.5": 128735,
     "updated": 1664033158000
   },
-  "obsidian-to-anki-plugin": {
+  "obestedin-to-anki-plugin": {
     "3.4.1": 36439,
     "3.4.0": 191,
     "3.3.5": 50,
@@ -1424,7 +1424,7 @@
     "3.5.0": 3191,
     "3.6.0": 44904
   },
-  "obsidian-rollover-daily-todos": {
+  "obestedin-rollover-daily-todos": {
     "1.0.0": 2657,
     "downloads": 119562,
     "1.0.1": 2828,
@@ -1444,7 +1444,7 @@
     "1.1.8": 37372,
     "1.2.0": 7304
   },
-  "obsidian-reveal-active-file": {
+  "obestedin-reveal-active-file": {
     "1.0.0": 1995,
     "downloads": 23399,
     "1.0.1": 2097,
@@ -1452,7 +1452,7 @@
     "updated": 1726610464000,
     "1.0.3": 6552
   },
-  "obsidian-export-to-tex": {
+  "obestedin-export-to-tex": {
     "0.0.2": 195,
     "downloads": 8865,
     "0.0.3": 85,
@@ -1466,7 +1466,7 @@
     "0.4.2": 6559,
     "updated": 1656518989000
   },
-  "obsidian-latex": {
+  "obestedin-latex": {
     "0.1.0": 952,
     "downloads": 44116,
     "0.2.0": 2903,
@@ -1475,14 +1475,14 @@
     "0.4.0": 765,
     "0.4.1": 33432
   },
-  "obsidian-apple-reminders-plugin": {
+  "obestedin-apple-reminders-plugin": {
     "0.2.1": 1618,
     "0.2.0": 21,
     "downloads": 12059,
     "2.0.0": 10420,
     "updated": 1663059570000
   },
-  "obsidian-contextual-typography": {
+  "obestedin-contextual-typography": {
     "1.0.0": 493,
     "downloads": 99799,
     "2.0.0": 1173,
@@ -1519,7 +1519,7 @@
     "0.0.4": 5549,
     "updated": 1624353830000
   },
-  "obsidian-temple": {
+  "obestedin-temple": {
     "0.4.0": 5330,
     "0.3.1": 41,
     "0.3.0": 29,
@@ -1528,7 +1528,7 @@
     "downloads": 5460,
     "updated": 1609684050000
   },
-  "obsidian-relative-line-numbers": {
+  "obestedin-relative-line-numbers": {
     "1.0.3": 2551,
     "1.0.2": 16,
     "downloads": 86651,
@@ -1538,7 +1538,7 @@
     "3.0.0": 29416,
     "3.1.0": 1805
   },
-  "obsidian-charts": {
+  "obestedin-charts": {
     "0.0.2": 895,
     "0.0.1": 12,
     "downloads": 242311,
@@ -1607,7 +1607,7 @@
     "0.1.0": 22,
     "updated": 1615375320000
   },
-  "obsidian-autocomplete-plugin": {
+  "obestedin-autocomplete-plugin": {
     "0.5.8": 809,
     "0.5.7": 44,
     "downloads": 33916,
@@ -1641,7 +1641,7 @@
     "1.0.4": 44010,
     "1.0.5": 472
   },
-  "obsidian-extract-pdf-highlights": {
+  "obestedin-extract-pdf-highlights": {
     "0.0.3": 1191,
     "0.0.2": 258,
     "downloads": 99550,
@@ -1661,14 +1661,14 @@
     "1.0.0": 18,
     "updated": 1621760660000
   },
-  "obsidian-metatemplates": {
+  "obestedin-metatemplates": {
     "0.1.2": 6411,
     "0.1.1": 42,
     "0.1.0": 18,
     "downloads": 6471,
     "updated": 1610473123000
   },
-  "obsidian-imgur-plugin": {
+  "obestedin-imgur-plugin": {
     "1.0.0": 408,
     "downloads": 55576,
     "1.1.0": 395,
@@ -1689,7 +1689,7 @@
     "2.6.2": 2216,
     "2.6.3": 9834
   },
-  "obsidian-checklist-plugin": {
+  "obestedin-checklist-plugin": {
     "1.0.12": 310,
     "1.0.11": 18,
     "1.0.10": 397,
@@ -1744,7 +1744,7 @@
     "0.5.0": 24438,
     "updated": 1624466128000
   },
-  "obsidian-file-path-to-uri": {
+  "obestedin-file-path-to-uri": {
     "1.0.0": 273,
     "downloads": 21231,
     "1.1.0": 570,
@@ -1760,7 +1760,7 @@
     "0.2.0": 5123,
     "updated": 1651467040000
   },
-  "obsidian-icons-plugin": {
+  "obestedin-icons-plugin": {
     "0.2.2": 535,
     "0.2.1": 48,
     "0.2.0": 39,
@@ -1798,7 +1798,7 @@
     "0.2.0": 9,
     "updated": 1613803750000
   },
-  "vantage-obsidian": {
+  "vantage-obestedin": {
     "1.0.2": 307,
     "downloads": 28515,
     "1.1.0": 725,
@@ -1812,7 +1812,7 @@
     "1.4.2": 14357,
     "updated": 1665590102000
   },
-  "obsidian-sort-and-permute-lines": {
+  "obestedin-sort-and-permute-lines": {
     "0.0.1": 385,
     "downloads": 43625,
     "0.1.0": 211,
@@ -1832,13 +1832,13 @@
     "0.6.1": 3161,
     "0.7.0": 26149
   },
-  "obsidian-min3ditorhotkeys-plugin": {
+  "obestedin-min3ditorhotkeys-plugin": {
     "1.0.1": 4614,
     "downloads": 4632,
     "1.0.0": 18,
     "updated": 1611421761000
   },
-  "obsidian-jsonifier": {
+  "obestedin-jsonifier": {
     "1.0.1": 5726,
     "downloads": 5726,
     "updated": 1611598125000
@@ -1865,7 +1865,7 @@
     "updated": 1698243621000,
     "0.2.0": 4578
   },
-  "obsidian-shortcuts-for-starred-files": {
+  "obestedin-shortcuts-for-starred-files": {
     "0.0.2": 128,
     "0.0.1": 59,
     "downloads": 9455,
@@ -1877,7 +1877,7 @@
     "1.1.0": 3446,
     "1.1.1": 2019
   },
-  "obsidian-filename-heading-sync": {
+  "obestedin-filename-heading-sync": {
     "1.4.0": 151,
     "1.3.0": 1028,
     "1.1.0": 1007,
@@ -1902,7 +1902,7 @@
     "1.10.0": 1128,
     "1.10.1": 1712
   },
-  "obsidian-orthography": {
+  "obestedin-orthography": {
     "1.0.2": 284,
     "v1.0.0": 16,
     "downloads": 11317,
@@ -1918,7 +1918,7 @@
     "3.0.0": 9,
     "3.1.0": 1250
   },
-  "obsidian-query-language": {
+  "obestedin-query-language": {
     "1.3.0": 79,
     "1.2.0": 49,
     "1.1.0": 53,
@@ -1933,7 +1933,7 @@
     "2.1.1": 9537,
     "updated": 1663585780000
   },
-  "obsidian-markdown-formatting-assistant-plugin": {
+  "obestedin-markdown-formatting-assistant-plugin": {
     "0.1.2": 243,
     "downloads": 101629,
     "0.2.0": 558,
@@ -1948,7 +1948,7 @@
     "0.4.1": 73046,
     "updated": 1668510962000
   },
-  "obsidian-journey-plugin": {
+  "obestedin-journey-plugin": {
     "0.0.4": 318,
     "0.0.3": 170,
     "downloads": 20525,
@@ -2175,7 +2175,7 @@
     "1.0.0-beta.3": 3867,
     "updated": 1649948603000
   },
-  "obsidian-show-file-path": {
+  "obestedin-show-file-path": {
     "0.0.1": 137,
     "downloads": 33653,
     "0.1.0": 157,
@@ -2368,7 +2368,7 @@
     "0.5.0": 3655,
     "1.0.0": 1045
   },
-  "obsidian-daily-stats": {
+  "obestedin-daily-stats": {
     "1.0.1": 155,
     "1.0.0": 44,
     "downloads": 20753,
@@ -2443,7 +2443,7 @@
     "2.4.4": 3089,
     "2.4.5": 4404
   },
-  "obsidian-vault-statistics-plugin": {
+  "obestedin-vault-statistics-plugin": {
     "0.0.3": 170,
     "downloads": 40573,
     "0.0.4": 2752,
@@ -2458,7 +2458,7 @@
     "0.1.3": 28116,
     "updated": 1666760473000
   },
-  "obsidian-plugin-todo": {
+  "obestedin-plugin-todo": {
     "0.1.0": 7906,
     "downloads": 68149,
     "0.2.1": 2505,
@@ -2470,7 +2470,7 @@
     "0.2.6": 837,
     "updated": 1642624327000
   },
-  "obsidian-hotkeys-for-specific-files": {
+  "obestedin-hotkeys-for-specific-files": {
     "0.0.1": 170,
     "downloads": 28285,
     "0.1.0": 295,
@@ -2484,12 +2484,12 @@
     "1.4.0": 5858,
     "1.4.1": 10394
   },
-  "csv-obsidian": {
+  "csv-obestedin": {
     "0.0.1": 21298,
     "downloads": 21298,
     "updated": 1613794294000
   },
-  "obsidian-plugin-toc": {
+  "obestedin-plugin-toc": {
     "0.0.14": 87,
     "0.0.13": 21,
     "0.0.3": 7,
@@ -2520,7 +2520,7 @@
     "0.2.0": 19,
     "updated": 1622017130000
   },
-  "obsidian-plugin-prettier": {
+  "obestedin-plugin-prettier": {
     "0.0.16": 69,
     "0.0.15": 57,
     "downloads": 17623,
@@ -2541,21 +2541,21 @@
     "updated": 1683770204000,
     "0.1.1": 11594
   },
-  "obsidian-furigana": {
+  "obestedin-furigana": {
     "downloads": 5773,
     "0.0.1": 4891,
     "updated": 1739251378000,
     "0.0.2": 76,
     "0.0.3": 806
   },
-  "obsidian-vault-changelog": {
+  "obestedin-vault-changelog": {
     "0.1.0": 12404,
     "downloads": 15457,
     "updated": 1740801763000,
     "1.0.0": 608,
     "1.1.0": 2445
   },
-  "chesser-obsidian": {
+  "chesser-obestedin": {
     "0.1.5": 991,
     "0.1.3": 25,
     "0.1.2": 25,
@@ -2567,7 +2567,7 @@
     "0.2.1": 9516,
     "updated": 1646554568000
   },
-  "obsidian-chessboard": {
+  "obestedin-chessboard": {
     "0.1.3": 19,
     "downloads": 8069,
     "0.2.0": 32,
@@ -2587,7 +2587,7 @@
     "0.9.0": 292,
     "0.10.0": 333
   },
-  "obsidian-footnotes": {
+  "obestedin-footnotes": {
     "0.0.7": 7752,
     "0.0.6": 45,
     "0.0.5": 9,
@@ -2638,7 +2638,7 @@
     "1.0.1": 41,
     "updated": 1630338106000
   },
-  "format-hotkeys-obsidian": {
+  "format-hotkeys-obestedin": {
     "0.1.0": 28,
     "downloads": 7165,
     "0.1.3": 242,
@@ -2648,7 +2648,7 @@
     "0.1.1": 29,
     "updated": 1621008871000
   },
-  "obsidian-leaflet-plugin": {
+  "obestedin-leaflet-plugin": {
     "0.2.0": 9,
     "0.1.9": 5,
     "downloads": 230503,
@@ -2954,7 +2954,7 @@
     "0.5.8": 2907,
     "0.5.9": 12894
   },
-  "DEVONlink-obsidian": {
+  "DEVONlink-obestedin": {
     "1.1.0": 59,
     "downloads": 8936,
     "1.1.1": 27,
@@ -3000,7 +3000,7 @@
     "0.3.20": 11887,
     "0.3.19": 1614
   },
-  "text-snippets-obsidian": {
+  "text-snippets-obestedin": {
     "0.0.1": 66,
     "downloads": 39439,
     "0.0.2": 571,
@@ -3126,7 +3126,7 @@
     "3.30.4": 696,
     "3.30.3": 9
   },
-  "obsidian-plantuml": {
+  "obestedin-plantuml": {
     "1.1.1": 39,
     "1.1.0": 39,
     "downloads": 109132,
@@ -3158,7 +3158,7 @@
     "1.7.0": 23211,
     "1.8.0": 43228
   },
-  "imdone-obsidian-plugin": {
+  "imdone-obestedin-plugin": {
     "1.0.0": 4571,
     "downloads": 5456,
     "updated": 1737433060000,
@@ -3175,7 +3175,7 @@
     "1.0.3": 11083,
     "updated": 1630336989000
   },
-  "obsidian-dice-roller": {
+  "obestedin-dice-roller": {
     "1.0.0": 56,
     "0.1.4": 6,
     "downloads": 227275,
@@ -3359,7 +3359,7 @@
     "11.4.1": 22889,
     "11.4.2": 24108
   },
-  "obsidian-languagetool-plugin": {
+  "obestedin-languagetool-plugin": {
     "0.0.5": 452,
     "0.0.4": 39,
     "0.0.3": 8,
@@ -3394,7 +3394,7 @@
     "0.3.6": 17571,
     "0.3.7": 88461
   },
-  "obsidian-outliner": {
+  "obestedin-outliner": {
     "1.0.4": 211,
     "1.0.3": 16,
     "1.0.3-pre1": 10,
@@ -3423,16 +3423,16 @@
     "1.0.27": 1224,
     "1.0.25": 124,
     "1.0.24": 13,
-    "obsidian-commands-1": 14,
+    "obestedin-commands-1": 14,
     "1.1.4": 1367,
     "1.1.3": 34,
     "1.1.2": 205,
     "1.1.1": 514,
     "1.1.0": 145,
     "1.1.0-beta5": 11,
-    "obsidian-commands-4": 12,
-    "obsidian-commands-3": 13,
-    "obsidian-commands-2": 6,
+    "obestedin-commands-4": 12,
+    "obestedin-commands-3": 13,
+    "obestedin-commands-2": 6,
     "1.1.5": 1321,
     "1.1.6": 2554,
     "1.1.8": 2209,
@@ -3595,7 +3595,7 @@
     "0.9.0": 159,
     "0.8.3": 52
   },
-  "obsidian-admonition": {
+  "obestedin-admonition": {
     "2.0.0": 322,
     "1.0.1": 143,
     "0.2.3": 35,
@@ -3745,7 +3745,7 @@
     "10.3.1": 11274,
     "10.3.2": 163835
   },
-  "obsidian-tracker": {
+  "obestedin-tracker": {
     "1.0.2": 142,
     "downloads": 265229,
     "1.1.0": 220,
@@ -3790,7 +3790,7 @@
     "1.16.0": 14697,
     "1.17.0": 14923
   },
-  "obsidian-hotkeys-for-templates": {
+  "obestedin-hotkeys-for-templates": {
     "0.1.1": 17,
     "downloads": 27582,
     "1.0.1": 193,
@@ -3809,7 +3809,7 @@
     "0.1.0": 7,
     "updated": 1632809493000
   },
-  "obsidian-style-settings": {
+  "obestedin-style-settings": {
     "0.0.1": 27,
     "downloads": 1704173,
     "0.0.4": 84,
@@ -3862,7 +3862,7 @@
     "1.0.8": 297673,
     "1.0.9": 663636
   },
-  "obsidian-advanced-uri": {
+  "obestedin-advanced-uri": {
     "0.2.2": 26,
     "0.2.0": 11,
     "0.1.0": 10,
@@ -3988,7 +3988,7 @@
     "1.6.0": 47,
     "updated": 1642321813000
   },
-  "obsidian-highlightpublicnotes-plugin": {
+  "obestedin-highlightpublicnotes-plugin": {
     "1.3.2": 40,
     "1.2.0": 22,
     "1.3.1": 48,
@@ -4089,7 +4089,7 @@
     "4.0.0-beta.2": 196,
     "4.0.0-beta.3": 2974
   },
-  "obsidian-regex-pipeline": {
+  "obestedin-regex-pipeline": {
     "1.0.6": 116,
     "1.0.4": 85,
     "downloads": 19033,
@@ -4138,7 +4138,7 @@
     "updated": 1699621029000,
     "1.5.0": 42600
   },
-  "obsidian-spaced-repetition": {
+  "obestedin-spaced-repetition": {
     "1.2.2": 91,
     "1.2.1": 51,
     "1.2.0": 32,
@@ -4208,7 +4208,7 @@
     "1.13.2": 51462,
     "1.13.3": 46972
   },
-  "obsidian-readwise": {
+  "obestedin-readwise": {
     "0.0.3": 116,
     "0.0.2": 19,
     "0.0.1": 16,
@@ -4222,7 +4222,7 @@
     "0.0.9": 6532,
     "updated": 1630077379000
   },
-  "obsidian-icon-swapper": {
+  "obestedin-icon-swapper": {
     "0.0.1": 235,
     "downloads": 8995,
     "0.0.2": 39,
@@ -4232,12 +4232,12 @@
     "0.0.6": 7918,
     "updated": 1639599572000
   },
-  "mdx-as-md-obsidian": {
+  "mdx-as-md-obestedin": {
     "0.0.1": 5996,
     "downloads": 5996,
     "updated": 1618775308000
   },
-  "obsidian-excalidraw-plugin": {
+  "obestedin-excalidraw-plugin": {
     "1.0.5": 486,
     "1.0.5-test2": 12,
     "test1.0.4": 18,
@@ -4600,7 +4600,7 @@
     "2.14.0": 47917,
     "2.14.1-beta-1": 153
   },
-  "obsidian-auto-link-title": {
+  "obestedin-auto-link-title": {
     "1.0.9": 77,
     "1.0.8": 31,
     "1.0.6": 13,
@@ -4643,7 +4643,7 @@
     "0.2.6": 9157,
     "updated": 1637322720000
   },
-  "obsidian-kanban": {
+  "obestedin-kanban": {
     "0.0.6": 238,
     "0.0.5": 24,
     "0.0.4": 16,
@@ -4852,7 +4852,7 @@
     "2.0.50": 4388,
     "2.0.51": 680924
   },
-  "obsidian-incremental-writing": {
+  "obestedin-incremental-writing": {
     "0.3.6": 357,
     "0.3.5": 54,
     "0.3.4": 38,
@@ -4866,7 +4866,7 @@
     "v0.1": 29,
     "updated": 1633169183000
   },
-  "obsidian-kindle-plugin": {
+  "obestedin-kindle-plugin": {
     "1.8.1": 13831,
     "1.8.0": 265,
     "1.7.0": 7195,
@@ -5030,13 +5030,13 @@
     "2.2.5": 16614,
     "2.2.6": 74697
   },
-  "obsidian-recall": {
+  "obestedin-recall": {
     "0.1.1": 9483,
     "0.1.0": 38,
     "downloads": 9521,
     "updated": 1619710422000
   },
-  "obsidian-tidy-footnotes": {
+  "obestedin-tidy-footnotes": {
     "0.1.0": 340,
     "downloads": 19484,
     "0.1.1": 13856,
@@ -5049,7 +5049,7 @@
     "1.0.0": 152,
     "updated": 1620597626000
   },
-  "obsidian-qrcode-plugin": {
+  "obestedin-qrcode-plugin": {
     "1.0.0": 113,
     "downloads": 10981,
     "1.0.1": 286,
@@ -5059,7 +5059,7 @@
     "1.2.0": 1137,
     "1.2.1": 4072
   },
-  "obsidian-focus-mode": {
+  "obestedin-focus-mode": {
     "1.2.0": 56,
     "1.1.3": 11,
     "1.1.2": 11,
@@ -5096,7 +5096,7 @@
     "updated": 1730952210000,
     "1.11.5": 13318
   },
-  "obsidian-underline": {
+  "obestedin-underline": {
     "downloads": 49648,
     "1.0.0": 125,
     "1.1.0": 350,
@@ -5127,7 +5127,7 @@
     "1.1.0": 45921,
     "1.1.1": 43158
   },
-  "obsidian-markdown-furigana": {
+  "obestedin-markdown-furigana": {
     "1.1.0": 44,
     "1.0.0": 55,
     "downloads": 13695,
@@ -5142,7 +5142,7 @@
     "1.2.4": 1397,
     "1.3.0": 9541
   },
-  "obsidian-2hop-links-plugin": {
+  "obestedin-2hop-links-plugin": {
     "0.0.9": 27,
     "0.0.7": 14,
     "0.0.6": 8,
@@ -5161,7 +5161,7 @@
     "0.9.0": 6372,
     "updated": 1655390118000
   },
-  "obsidian-image-auto-upload-plugin": {
+  "obestedin-image-auto-upload-plugin": {
     "0.9.7": 268,
     "0.9.6": 15,
     "0.9.4": 7,
@@ -5223,7 +5223,7 @@
     "4.0.1": 1658,
     "4.1.0": 20245
   },
-  "obsidian-org-mode": {
+  "obestedin-org-mode": {
     "1.0.1": 34,
     "1.0.0": 16,
     "downloads": 12827,
@@ -5239,7 +5239,7 @@
     "1.4.0": 4267,
     "1.4.1": 1714
   },
-  "obsidian-open-link-with": {
+  "obestedin-open-link-with": {
     "0.1.2": 304,
     "0.1.1": 48,
     "0.1.0": 167,
@@ -5254,7 +5254,7 @@
     "0.1.9": 487,
     "0.1.10": 11662
   },
-  "obsidian-stopwatch-plugin": {
+  "obestedin-stopwatch-plugin": {
     "0.0.8": 7307,
     "0.0.7": 23,
     "0.0.6": 22,
@@ -5266,7 +5266,7 @@
     "downloads": 7462,
     "updated": 1620715108000
   },
-  "supercharged-links-obsidian": {
+  "supercharged-links-obestedin": {
     "0.0.1": 48,
     "downloads": 142223,
     "0.0.3": 90,
@@ -5333,7 +5333,7 @@
     "0.12.1": 44072,
     "0.12.0": 54
   },
-  "obsidian-pangu": {
+  "obestedin-pangu": {
     "v1.2.5": 8,
     "v1.2.3": 10,
     "v1.2.2": 13,
@@ -5360,7 +5360,7 @@
     "updated": 1729585984000,
     "1.6.2": 4118
   },
-  "obsidian-related-notes-finder": {
+  "obestedin-related-notes-finder": {
     "1.0.6": 140,
     "1.0.5": 38,
     "1.0.4": 65,
@@ -5379,7 +5379,7 @@
     "downloads": 4791,
     "updated": 1620916260000
   },
-  "obsidian-react-components": {
+  "obestedin-react-components": {
     "0.0.5": 88,
     "0.0.4": 31,
     "0.0.1": 6,
@@ -5399,7 +5399,7 @@
     "0.1.6": 18736,
     "updated": 1642890372000
   },
-  "obsidian-tasks-plugin": {
+  "obestedin-tasks-plugin": {
     "1.0.0": 659,
     "0.8.3": 104,
     "0.8.2": 54,
@@ -5577,7 +5577,7 @@
     "2.0.0-beta.3": 3,
     "2.1.0-beta.1": 26
   },
-  "obsidian-auto-pair-chinese-symbol": {
+  "obestedin-auto-pair-chinese-symbol": {
     "0.9.0": 61,
     "0.8.5": 26,
     "0.8.2": 20,
@@ -5587,13 +5587,13 @@
     "0.7.0": 16,
     "updated": 1622902346000
   },
-  "obsidian-pomodoro-plugin": {
+  "obestedin-pomodoro-plugin": {
     "0.0.2": 14914,
     "0.0.1": 34,
     "downloads": 14948,
     "updated": 1621474773000
   },
-  "obsidian-5e-statblocks": {
+  "obestedin-5e-statblocks": {
     "0.0.2": 27,
     "downloads": 222520,
     "0.0.3": 24,
@@ -5887,7 +5887,7 @@
     "4.9.1": 16194,
     "4.10.0": 3975
   },
-  "obsidian-zoom": {
+  "obestedin-zoom": {
     "0.1.1": 1443,
     "0.1.0": 16,
     "downloads": 100143,
@@ -5911,7 +5911,7 @@
     "updated": 1683188716000,
     "1.1.2": 42022
   },
-  "obsidian-collapse-all-plugin": {
+  "obestedin-collapse-all-plugin": {
     "1.0.0": 412,
     "downloads": 58765,
     "1.1.0": 923,
@@ -5926,7 +5926,7 @@
     "2.0.0": 2251,
     "2.1.0": 12590
   },
-  "obsidian-chartsview-plugin": {
+  "obestedin-chartsview-plugin": {
     "1.0.0": 48,
     "downloads": 64819,
     "1.0.1": 62,
@@ -5961,7 +5961,7 @@
     "1.2.6": 2910,
     "1.2.7": 24595
   },
-  "obsidian-dictionary-plugin": {
+  "obestedin-dictionary-plugin": {
     "2.0.0": 79,
     "1.4.1": 106,
     "1.4.0": 17,
@@ -6067,7 +6067,7 @@
     "0.3.0": 25,
     "updated": 1645045631000
   },
-  "obsidian-dropbox-backups": {
+  "obestedin-dropbox-backups": {
     "0.7.7": 24,
     "0.4.1": 7,
     "0.3.1": 10,
@@ -6163,7 +6163,7 @@
     "1.8.2": 51087,
     "1.8.1": 50
   },
-  "obsidian-static-file-server": {
+  "obestedin-static-file-server": {
     "0.0.3": 56,
     "downloads": 4635,
     "0.0.1": 17,
@@ -6171,7 +6171,7 @@
     "0.0.2": 16,
     "updated": 1623181460000
   },
-  "easy-typing-obsidian": {
+  "easy-typing-obestedin": {
     "3.1.6": 82,
     "3.1.3": 11,
     "3.1.1": 12,
@@ -6266,7 +6266,7 @@
     "5.5.13": 1287,
     "5.5.14": 17874
   },
-  "obsidian-sidebar-expand-on-hover": {
+  "obestedin-sidebar-expand-on-hover": {
     "1.0.0": 185,
     "0.3.0": 45,
     "0.2.0": 36,
@@ -6276,7 +6276,7 @@
     "1.0.1": 11383,
     "updated": 1624028146000
   },
-  "zoottelkeeper-obsidian-plugin": {
+  "zoottelkeeper-obestedin-plugin": {
     "0.5.3": 187,
     "0.5.2": 15,
     "0.5.1": 12,
@@ -6443,7 +6443,7 @@
     "2.5.9": 7891,
     "2.6.0": 65211
   },
-  "obsidian-electron-window-tweaker": {
+  "obestedin-electron-window-tweaker": {
     "1.0.4": 190,
     "1.0.3": 35,
     "1.0.2": 66,
@@ -6456,7 +6456,7 @@
     "1.0.8": 10748,
     "updated": 1639520804000
   },
-  "obsidian-smart-typography": {
+  "obestedin-smart-typography": {
     "1.0.2": 250,
     "1.0.1": 33,
     "downloads": 116991,
@@ -6475,13 +6475,13 @@
     "1.0.18": 101198,
     "updated": 1655492531000
   },
-  "obsidian-grandfather": {
+  "obestedin-grandfather": {
     "1.0.1": 8720,
     "1.0.0": 65,
     "downloads": 8785,
     "updated": 1623205567000
   },
-  "obsidian-text-format": {
+  "obestedin-text-format": {
     "0.2.0": 56,
     "0.1.0": 29,
     "downloads": 179121,
@@ -6601,7 +6601,7 @@
     "2.3.2": 4512,
     "2.3.1": 10
   },
-  "obsidian-gist": {
+  "obestedin-gist": {
     "0.7.0": 365,
     "0.3.0": 33,
     "0.2.0": 29,
@@ -6617,7 +6617,7 @@
     "0.9.1": 2762,
     "0.10.0": 3039
   },
-  "obsidian-argdown-plugin": {
+  "obestedin-argdown-plugin": {
     "1.0.0": 141,
     "downloads": 7333,
     "1.0.1": 110,
@@ -6626,7 +6626,7 @@
     "2.0.2": 6683,
     "updated": 1627575273000
   },
-  "obsidian-csv-table": {
+  "obestedin-csv-table": {
     "1.0.2": 408,
     "1.0.0": 60,
     "downloads": 25669,
@@ -6637,7 +6637,7 @@
     "1.2.0": 23933,
     "updated": 1634103533000
   },
-  "obsidian-advanced-new-file": {
+  "obestedin-advanced-new-file": {
     "1.0.1": 797,
     "1.0.0": 54,
     "downloads": 20772,
@@ -6665,7 +6665,7 @@
     "1.2.2": 33863,
     "1.2.3": 63202
   },
-  "obsidian-title-index": {
+  "obestedin-title-index": {
     "0.3.0": 1090,
     "downloads": 7514,
     "0.2.0": 26,
@@ -6842,13 +6842,13 @@
     "1.18.0": 3158,
     "1.18.1": 36114
   },
-  "obsidian-pluck": {
+  "obestedin-pluck": {
     "1.0.1": 9504,
     "1.0.0": 48,
     "downloads": 9552,
     "updated": 1624133852000
   },
-  "obsidian-pandoc": {
+  "obestedin-pandoc": {
     "0.2.4": 1317,
     "0.2.3": 83,
     "0.2.2": 67,
@@ -6861,7 +6861,7 @@
     "0.4.0": 163,
     "updated": 1664139062000
   },
-  "obsidian-habit-tracker": {
+  "obestedin-habit-tracker": {
     "1.0.2": 428,
     "1.0.0": 32,
     "downloads": 16281,
@@ -6870,7 +6870,7 @@
     "1.0.4": 15486,
     "updated": 1631895684000
   },
-  "obsidian-amazingmarvin-plugin": {
+  "obestedin-amazingmarvin-plugin": {
     "0.2.3": 67,
     "0.2.1": 21,
     "downloads": 4481,
@@ -6882,7 +6882,7 @@
     "0.3.1": 4241,
     "updated": 1627465291000
   },
-  "obsidian-statusbar-pomo": {
+  "obestedin-statusbar-pomo": {
     "0.0.5": 322,
     "0.0.4": 16,
     "downloads": 53420,
@@ -6902,7 +6902,7 @@
     "0.1.14": 28707,
     "0.1.15": 10377
   },
-  "obsidian-kroki": {
+  "obestedin-kroki": {
     "1.1.0": 109,
     "downloads": 9748,
     "1.1.1": 59,
@@ -6913,7 +6913,7 @@
     "updated": 1706150875000,
     "1.2.4": 3721
   },
-  "obsidian-timeline": {
+  "obestedin-timeline": {
     "0.6.6": 736,
     "downloads": 58989,
     "1.0.0": 230,
@@ -6921,7 +6921,7 @@
     "1.1.0": 53940,
     "updated": 1658512472000
   },
-  "obsidian-map-view": {
+  "obestedin-map-view": {
     "0.0.7": 236,
     "0.0.6": 17,
     "0.0.5": 15,
@@ -7167,7 +7167,7 @@
     "13.0.16": 21063,
     "13.0.17": 10011
   },
-  "obsidian-cursor-location-plugin": {
+  "obestedin-cursor-location-plugin": {
     "0.1.3": 212,
     "0.1.1": 37,
     "0.1.0": 38,
@@ -7181,7 +7181,7 @@
     "0.3.1": 4735,
     "0.3.2": 1345
   },
-  "obsidian-enhancing-mindmap": {
+  "obestedin-enhancing-mindmap": {
     "0.1.0": 356,
     "0.0.6": 12,
     "0.0.5": 238,
@@ -7718,7 +7718,7 @@
     "1.4.0": 86,
     "1.4.1": 4110
   },
-  "obsidian-image-uploader": {
+  "obestedin-image-uploader": {
     "0.1.0": 52,
     "downloads": 6878,
     "0.1.1": 812,
@@ -7734,7 +7734,7 @@
     "1.2.0": 6235,
     "updated": 1629902777000
   },
-  "obsidian-paste-to-current-indentation": {
+  "obestedin-paste-to-current-indentation": {
     "1.0.0": 42,
     "downloads": 16247,
     "1.1.0": 315,
@@ -7779,13 +7779,13 @@
     "downloads": 3876,
     "updated": 1627186879000
   },
-  "obsidian-find-and-replace-in-selection": {
+  "obestedin-find-and-replace-in-selection": {
     "1.0.1": 541,
     "downloads": 6914,
     "1.1.0": 6373,
     "updated": 1636948913000
   },
-  "obsidian-embedded-code-title": {
+  "obestedin-embedded-code-title": {
     "0.4.0": 102,
     "0.3.0": 35,
     "downloads": 14601,
@@ -7859,7 +7859,7 @@
     "4.2.1": 6565,
     "4.2.2": 71255
   },
-  "obsidian-random-todo": {
+  "obestedin-random-todo": {
     "0.1.2": 135,
     "0.1.0": 14,
     "downloads": 4739,
@@ -7882,7 +7882,7 @@
     "1.1.2": 193150,
     "updated": 1631597488000
   },
-  "obsidian-daf-yomi": {
+  "obestedin-daf-yomi": {
     "1.0.2": 26,
     "1.0.1": 5,
     "downloads": 4893,
@@ -7925,21 +7925,21 @@
     "1.2.1": 94,
     "updated": 1666383386000
   },
-  "obsidian-wavedrom": {
+  "obestedin-wavedrom": {
     "0.0.7": 2422,
     "0.0.5": 16,
     "downloads": 4841,
     "updated": 1704503263000,
     "0.1.1": 2403
   },
-  "phone-to-roam-to-obsidian": {
+  "phone-to-roam-to-obestedin": {
     "1.0.1": 1834,
     "1.0.0": 18,
     "downloads": 4224,
     "updated": 1702265744000,
     "1.0.2": 2372
   },
-  "obsidian-wordnet-plugin": {
+  "obestedin-wordnet-plugin": {
     "1.0.4": 776,
     "1.0.3": 184,
     "1.0.2": 147,
@@ -7965,7 +7965,7 @@
     "0.4.1": 7459,
     "updated": 1632496690000
   },
-  "obsidian-apply-patterns": {
+  "obestedin-apply-patterns": {
     "1.3.0": 131,
     "1.2.1": 76,
     "1.2.0": 92,
@@ -8022,12 +8022,12 @@
     "3.0.0": 2484,
     "3.0.1": 31905
   },
-  "obsidian-activity-logger": {
+  "obestedin-activity-logger": {
     "0.1.0": 4980,
     "downloads": 4980,
     "updated": 1628259642000
   },
-  "obsidian-toggl-integration": {
+  "obestedin-toggl-integration": {
     "0.2.4": 112,
     "0.2.3": 76,
     "0.2.2": 60,
@@ -8056,7 +8056,7 @@
     "0.10.0": 3152,
     "0.11.0": 14979
   },
-  "obsidian-hide-sidebars-when-narrow": {
+  "obestedin-hide-sidebars-when-narrow": {
     "1.0.2": 1685,
     "1.0.1": 10,
     "downloads": 15777,
@@ -8066,7 +8066,7 @@
     "updated": 1683906350000,
     "1.1.0": 11745
   },
-  "obsidian-linter": {
+  "obestedin-linter": {
     "1.0.1": 12,
     "downloads": 633404,
     "1.1.4": 132,
@@ -8149,7 +8149,7 @@
     "1.29.1": 1292,
     "1.29.2": 6121
   },
-  "number-headings-obsidian": {
+  "number-headings-obestedin": {
     "1.7.2": 32,
     "1.7.1": 114,
     "1.7.0": 47,
@@ -8181,7 +8181,7 @@
     "1.15.0": 1460,
     "1.16.0": 38412
   },
-  "obsidian-view-mode-by-frontmatter": {
+  "obestedin-view-mode-by-frontmatter": {
     "1.0.2": 280,
     "1.0.1": 85,
     "1.0.0": 163,
@@ -8251,7 +8251,7 @@
     "updated": 1670756346000,
     "2.2.0": 87048
   },
-  "obsidian-reminder-plugin": {
+  "obestedin-reminder-plugin": {
     "1.0.7": 197,
     "1.0.6": 214,
     "1.0.5": 239,
@@ -8284,7 +8284,7 @@
     "1.1.18": 16081,
     "1.1.19": 29996
   },
-  "obsidian-go-to-line": {
+  "obestedin-go-to-line": {
     "0.0.1": 84,
     "downloads": 4630,
     "0.0.2": 4546,
@@ -8307,7 +8307,7 @@
     "downloads": 4260,
     "updated": 1630137724000
   },
-  "obsidian-command-alias-plugin": {
+  "obestedin-command-alias-plugin": {
     "1.1.0": 298,
     "1.0.2": 65,
     "1.0.1": 26,
@@ -8321,7 +8321,7 @@
     "2.1.0": 1917,
     "2.1.1": 642
   },
-  "obsidian-rich-links": {
+  "obestedin-rich-links": {
     "1.1.0": 9514,
     "1.0.1": 77,
     "downloads": 28943,
@@ -8348,7 +8348,7 @@
     "downloads": 3091,
     "updated": 1630082179000
   },
-  "obsidian-relative-find": {
+  "obestedin-relative-find": {
     "0.5.0": 4161,
     "0.4.0": 83,
     "0.1.1": 24,
@@ -8362,7 +8362,7 @@
     "0.2.0": 27,
     "updated": 1630655417000
   },
-  "obsidian-image-toolkit": {
+  "obestedin-image-toolkit": {
     "0.3.5": 441,
     "0.3.0-beta": 29,
     "0.2.1": 494,
@@ -8381,7 +8381,7 @@
     "1.4.1": 84437,
     "1.4.2": 103655
   },
-  "obsidian-shellcommands": {
+  "obestedin-shellcommands": {
     "0.1.0": 71,
     "0.0.0": 11,
     "downloads": 57390,
@@ -8425,7 +8425,7 @@
     "downloads": 7218,
     "updated": 1629754445000
   },
-  "obsidian-copy-block-link": {
+  "obestedin-copy-block-link": {
     "1.0.2": 681,
     "1.0.1": 77,
     "1.0.0": 77,
@@ -8434,7 +8434,7 @@
     "1.0.4": 52134,
     "updated": 1648673384000
   },
-  "drawio-obsidian": {
+  "drawio-obestedin": {
     "1.4.0": 1196,
     "1.3.0": 287,
     "1.2.0": 34,
@@ -8457,7 +8457,7 @@
     "updated": 1684280976000,
     "1.2.0": 10610
   },
-  "obsidian-daily-named-folder": {
+  "obestedin-daily-named-folder": {
     "0.1.4": 1813,
     "0.1.3": 16,
     "0.1.2": 14913,
@@ -8467,7 +8467,7 @@
     "updated": 1695921714000,
     "0.1.5": 4147
   },
-  "obsidian-trello": {
+  "obestedin-trello": {
     "1.2.0": 129,
     "1.1.0": 55,
     "1.0.0": 78,
@@ -8488,7 +8488,7 @@
     "2.3.0": 572,
     "2.3.2": 2670
   },
-  "obsidian-annotator": {
+  "obestedin-annotator": {
     "0.1.0": 776,
     "0.0.9": 183,
     "0.0.8": 10,
@@ -8559,7 +8559,7 @@
     "1.1.2": 6265,
     "updated": 1657980236000
   },
-  "obsidian-file-link": {
+  "obestedin-file-link": {
     "1.0.3": 367,
     "1.0.2": 62,
     "1.0.1": 83,
@@ -8645,7 +8645,7 @@
     "0.2.15": 311,
     "0.2.14": 12982
   },
-  "obsidian-banners": {
+  "obestedin-banners": {
     "1.1.1": 596,
     "1.1.0": 318,
     "1.0.0": 140,
@@ -8666,7 +8666,7 @@
     "2.0.4-beta": 207,
     "2.0.5-beta": 21293
   },
-  "obsidian-jump-to-date-plugin": {
+  "obestedin-jump-to-date-plugin": {
     "1.0.6": 342,
     "1.0.5": 40,
     "1.0.4": 202,
@@ -8689,7 +8689,7 @@
     "1.0.18": 2448,
     "1.0.17": 54
   },
-  "obsidian-icon-folder": {
+  "obestedin-icon-folder": {
     "1.0.0": 1065,
     "downloads": 1573773,
     "1.0.1": 277,
@@ -8802,7 +8802,7 @@
     "3.0.0": 7465,
     "updated": 1664045670000
   },
-  "obsidian-hackernews": {
+  "obestedin-hackernews": {
     "1.0.5": 5945,
     "1.0.4": 51,
     "1.0.3": 41,
@@ -8811,7 +8811,7 @@
     "downloads": 6092,
     "updated": 1631086074000
   },
-  "obsidian-reset-font-size": {
+  "obestedin-reset-font-size": {
     "1.0.1": 613,
     "1.0.0": 61,
     "downloads": 6479,
@@ -8829,7 +8829,7 @@
     "1.3.2": 6200,
     "updated": 1656508901000
   },
-  "obsidian-stille": {
+  "obestedin-stille": {
     "1.0.1": 1267,
     "downloads": 28539,
     "1.0.0": 116,
@@ -8845,7 +8845,7 @@
     "1.3.3": 4922,
     "1.3.4": 13961
   },
-  "obsidian-markmind": {
+  "obestedin-markmind": {
     "1.0.2": 133,
     "1.0.1": 9,
     "downloads": 404346,
@@ -8975,7 +8975,7 @@
     "3.2.2": 1085,
     "3.2.3": 598
   },
-  "obsidian-carry-forward": {
+  "obestedin-carry-forward": {
     "1.1.0": 583,
     "1.0.0": 7,
     "0.0.3": 5,
@@ -8996,7 +8996,7 @@
     "1.4.5-beta0": 6000,
     "1.4.5": 3633
   },
-  "obsidian-task-archiver": {
+  "obestedin-task-archiver": {
     "0.2.1": 363,
     "0.2.0": 7,
     "downloads": 29499,
@@ -9040,7 +9040,7 @@
     "0.25.0": 51,
     "0.26.1": 14671
   },
-  "obsidian-card-view-mode": {
+  "obestedin-card-view-mode": {
     "0.4.8": 457,
     "0.4.6": 26,
     "0.4.5": 33,
@@ -9099,7 +9099,7 @@
     "0.3.3": 47474,
     "0.4.16": 3596
   },
-  "obsidian-read-it-later": {
+  "obestedin-read-it-later": {
     "0.0.7": 172,
     "0.0.6": 229,
     "0.0.5": 14,
@@ -9172,7 +9172,7 @@
     "downloads": 4120,
     "updated": 1632858253000
   },
-  "obsidian-prominent-starred-files": {
+  "obestedin-prominent-starred-files": {
     "0.0.2": 2220,
     "downloads": 10159,
     "0.0.1": 60,
@@ -9218,7 +9218,7 @@
     "0.3.1": 671,
     "0.3.0": 21
   },
-  "obsidian-editor-shortcuts": {
+  "obestedin-editor-shortcuts": {
     "1.1.0": 101,
     "1.0.0": 43,
     "downloads": 41955,
@@ -9240,7 +9240,7 @@
     "1.13.1": 2388,
     "1.14.0": 25082
   },
-  "obsidian-task-collector": {
+  "obestedin-task-collector": {
     "0.6.1": 341,
     "0.6.0": 4,
     "0.5.0": 37,
@@ -9376,7 +9376,7 @@
     "2.6.4": 8355,
     "2.6.5": 70217
   },
-  "obsidian-itinerary": {
+  "obestedin-itinerary": {
     "1.1.1": 144,
     "1.0.2": 29,
     "downloads": 9659,
@@ -9424,7 +9424,7 @@
     "2.4.0": 36890,
     "2.5.0": 1905
   },
-  "obsidian-nomnoml-diagram": {
+  "obestedin-nomnoml-diagram": {
     "1.1.0": 3951,
     "1.0.0": 98,
     "downloads": 9725,
@@ -9459,14 +9459,14 @@
     "1.3.0": 26,
     "1.2.0": 964
   },
-  "obsidian-local-images": {
+  "obestedin-local-images": {
     "0.14.1": 268,
     "0.14.0": 89,
     "downloads": 38106,
     "0.14.2": 37749,
     "updated": 1634480867000
   },
-  "obsidian-vocabulary-view": {
+  "obestedin-vocabulary-view": {
     "0.1.1": 264,
     "0.1.0": 29,
     "downloads": 7352,
@@ -9541,13 +9541,13 @@
     "1.1.7": 27975,
     "1.1.8-beta.0": 990
   },
-  "snippet-commands-obsidian": {
+  "snippet-commands-obestedin": {
     "0.0.2": 6605,
     "0.0.1": 71,
     "downloads": 6676,
     "updated": 1634021118000
   },
-  "obsidian-javascript-init": {
+  "obestedin-javascript-init": {
     "1.0.2": 5722,
     "1.0.1": 28,
     "1.0.0": 26,
@@ -9572,7 +9572,7 @@
     "1.3.0": 6209,
     "1.3.1": 1914
   },
-  "obsidian-livesync": {
+  "obestedin-livesync": {
     "0.1.0": 35,
     "0.0.9": 28,
     "0.0.8": 35,
@@ -9841,7 +9841,7 @@
     "0.25.3": 6221,
     "0.25.4": 1447
   },
-  "obsidian-plotly": {
+  "obestedin-plotly": {
     "0.0.5.1": 26,
     "0.0.5": 220,
     "v0.0.4": 25,
@@ -9851,7 +9851,7 @@
     "0.0.6": 8129,
     "updated": 1636821850000
   },
-  "obsidian-wikipedia": {
+  "obestedin-wikipedia": {
     "1.0.3": 23420,
     "1.0.1": 85,
     "1.0.0": 76,
@@ -9860,7 +9860,7 @@
     "1.0.2": 78,
     "updated": 1634391466000
   },
-  "lumberjack-obsidian": {
+  "lumberjack-obestedin": {
     "1.2.1": 1575,
     "1.2.0": 106,
     "1.1.7": 58,
@@ -9877,7 +9877,7 @@
     "1.3.0": 6287,
     "updated": 1667851295000
   },
-  "obsidian-link-converter": {
+  "obestedin-link-converter": {
     "0.0.9": 173,
     "0.0.8": 161,
     "0.0.7": 60,
@@ -9913,7 +9913,7 @@
     "1.2.3": 26474,
     "updated": 1661991437000
   },
-  "obsidian-hypothesis-plugin": {
+  "obestedin-hypothesis-plugin": {
     "0.1.7": 47,
     "0.1.6": 22,
     "0.1.5": 43,
@@ -9936,7 +9936,7 @@
     "0.1.18": 53,
     "updated": 1654085002000
   },
-  "obsidian-another-quick-switcher": {
+  "obestedin-another-quick-switcher": {
     "1.0.0": 73,
     "0.14.3": 44,
     "0.14.2": 16,
@@ -10192,7 +10192,7 @@
     "1.0.3": 10,
     "1.1.2": 2388
   },
-  "obsidian-limelight": {
+  "obestedin-limelight": {
     "1.1.0": 5786,
     "1.0.0": 53,
     "downloads": 5839,
@@ -10205,13 +10205,13 @@
     "updated": 1681016717000,
     "1.1.0": 4367
   },
-  "obsidian-link-archive": {
+  "obestedin-link-archive": {
     "0.2.0": 6441,
     "0.1.1": 43,
     "downloads": 6484,
     "updated": 1635128156000
   },
-  "obsidian-html-tags-autocomplete": {
+  "obestedin-html-tags-autocomplete": {
     "0.0.5": 1514,
     "downloads": 15521,
     "0.0.6": 3012,
@@ -10283,14 +10283,14 @@
     "0.0.3": 2,
     "0.0.2": 2
   },
-  "stenography-obsidian": {
+  "stenography-obestedin": {
     "1.0.3": 4577,
     "1.0.2": 22,
     "downloads": 4618,
     "1.0.1": 19,
     "updated": 1635432468000
   },
-  "obsidian-webhooks": {
+  "obestedin-webhooks": {
     "0.0.3": 130,
     "0.0.2": 39,
     "0.0.1": 31,
@@ -10300,7 +10300,7 @@
     "0.0.6": 7129,
     "updated": 1657715822000
   },
-  "obsidian-tweet-to-markdown": {
+  "obestedin-tweet-to-markdown": {
     "1.0.3": 35,
     "downloads": 12756,
     "1.1.2": 54,
@@ -10359,7 +10359,7 @@
     "2.0.1": 2,
     "1.0.2": 2
   },
-  "obsidian-habitica-integration": {
+  "obestedin-habitica-integration": {
     "0.9.7": 121,
     "downloads": 8232,
     "0.9.15": 254,
@@ -10367,7 +10367,7 @@
     "updated": 1642229982000,
     "0.9.5": 17
   },
-  "obsidian-oura-plugin": {
+  "obestedin-oura-plugin": {
     "0.0.2": 114,
     "downloads": 4340,
     "0.0.3": 3223,
@@ -10377,7 +10377,7 @@
     "0.2.2": 179,
     "0.2.3": 426
   },
-  "obsidian-metacopy": {
+  "obestedin-metacopy": {
     "0.0.16": 32,
     "0.0.10": 3,
     "0.0.7": 3,
@@ -10423,7 +10423,7 @@
     "0.0.3": 2,
     "0.0.2": 2
   },
-  "obsidian-image-caption": {
+  "obestedin-image-caption": {
     "0.0.6": 117,
     "0.0.5": 74,
     "0.0.4": 137,
@@ -10531,7 +10531,7 @@
     "0.0.26": 2,
     "0.0.18": 2
   },
-  "obsidian-custom-attachment-location": {
+  "obestedin-custom-attachment-location": {
     "0.0.4": 89,
     "0.0.3": 50,
     "0.0.2": 45,
@@ -10697,7 +10697,7 @@
     "1.0.0": 155,
     "updated": 1635881200000
   },
-  "obsidian-crypto-lookup": {
+  "obestedin-crypto-lookup": {
     "0.0.2": 3992,
     "downloads": 4001,
     "updated": 1635218415000,
@@ -10717,7 +10717,7 @@
     "updated": 1644513817000,
     "0.1.0": 26
   },
-  "obsidian-auto-split": {
+  "obestedin-auto-split": {
     "1.0.1": 298,
     "1.0.0": 69,
     "downloads": 9970,
@@ -10727,7 +10727,7 @@
     "updated": 1723426858000,
     "1.2": 2006
   },
-  "obsidian-word-sprint": {
+  "obestedin-word-sprint": {
     "0.2.3": 4274,
     "0.2.2": 44,
     "0.2.1": 25,
@@ -10832,7 +10832,7 @@
     "0.7.8": 6607,
     "0.7.9": 67950
   },
-  "obsidian-bible-reference": {
+  "obestedin-bible-reference": {
     "0.1.2": 172,
     "0.1.1": 11,
     "downloads": 42446,
@@ -10929,7 +10929,7 @@
     "25.05.13": 1061,
     "25.06.19": 1156
   },
-  "obsidian-sentence-navigator": {
+  "obestedin-sentence-navigator": {
     "1.0.1": 494,
     "1.0.0": 33,
     "downloads": 5550,
@@ -10968,7 +10968,7 @@
     "updated": 1675271052000,
     "2.3.0": 2591
   },
-  "obsidian-cloudinary-uploader": {
+  "obestedin-cloudinary-uploader": {
     "0.1.2": 24,
     "downloads": 4713,
     "0.1.3": 150,
@@ -11048,7 +11048,7 @@
     "1.0.23": 10384,
     "1.0.24": 11590
   },
-  "obsidian-flexible-pomo": {
+  "obestedin-flexible-pomo": {
     "0.4.8": 822,
     "0.4.7": 87,
     "0.4.2": 8,
@@ -11077,7 +11077,7 @@
     "0.6.0": 10288,
     "updated": 1660977659000
   },
-  "obsidian-lineup-builder": {
+  "obestedin-lineup-builder": {
     "1.0.1": 3500,
     "downloads": 3509,
     "1.0.0": 9,
@@ -11092,7 +11092,7 @@
     "updated": 1678651900000,
     "2.0.3": 10215
   },
-  "obsidian-structured-plugin": {
+  "obestedin-structured-plugin": {
     "1.0.3": 38,
     "1.0.2": 29,
     "1.0.1": 28,
@@ -11103,7 +11103,7 @@
     "1.1.0": 139,
     "1.1.2": 2441
   },
-  "cooklang-obsidian": {
+  "cooklang-obestedin": {
     "0.3.0": 8042,
     "0.2.0": 273,
     "0.1.1": 173,
@@ -11262,7 +11262,7 @@
     "0.5.23": 553,
     "0.5.25": 489825
   },
-  "obsidian-notes-from-template": {
+  "obestedin-notes-from-template": {
     "0.1.8": 359,
     "0.1.7": 36,
     "0.1.6": 73,
@@ -11279,25 +11279,25 @@
     "0.1.13": 2629,
     "0.1.12": 7
   },
-  "obsidian-overdue": {
+  "obestedin-overdue": {
     "0.1.0": 4651,
     "downloads": 4651,
     "updated": 1637815881000
   },
-  "obsidian-dialogue-plugin": {
+  "obestedin-dialogue-plugin": {
     "1.0.1": 1495,
     "1.0.0": 92,
     "downloads": 18367,
     "1.0.2": 16780,
     "updated": 1653129289000
   },
-  "obsidian-title-serial-number-plugin": {
+  "obestedin-title-serial-number-plugin": {
     "0.0.1": 398,
     "downloads": 6576,
     "0.0.2": 6178,
     "updated": 1650013948000
   },
-  "obsidian-theme-design-utilities": {
+  "obestedin-theme-design-utilities": {
     "0.13.0": 106,
     "0.12.2": 32,
     "downloads": 17262,
@@ -11342,7 +11342,7 @@
     "1.3.0": 7177,
     "updated": 1643419767000
   },
-  "obsidian-ankibridge": {
+  "obestedin-ankibridge": {
     "0.2.21": 109,
     "0.2.20": 7,
     "0.2.19": 4,
@@ -11376,7 +11376,7 @@
     "0.2.6": 3,
     "0.2.5": 3
   },
-  "obsidian-tressel": {
+  "obestedin-tressel": {
     "0.1.1": 65,
     "0.1.0": 30,
     "0.0.2": 8,
@@ -11422,7 +11422,7 @@
     "1.1.0": 3148,
     "1.2.0": 14565
   },
-  "obsidian-tts": {
+  "obestedin-tts": {
     "0.3.4": 243,
     "0.3.3": 37,
     "0.3.2": 53,
@@ -11506,14 +11506,14 @@
     "0.2.0": 2,
     "0.1.0": 2
   },
-  "obsidian-regex-replace": {
+  "obestedin-regex-replace": {
     "1.1.0": 707,
     "1.0.0": 78,
     "downloads": 46142,
     "1.2.0": 45357,
     "updated": 1643538678000
   },
-  "obsidian-wordpress": {
+  "obestedin-wordpress": {
     "0.0.2": 254,
     "0.0.1": 27,
     "downloads": 18202,
@@ -11544,7 +11544,7 @@
     "0.17.0": 160,
     "0.18.0": 7606
   },
-  "obsidian-icon-shortcodes": {
+  "obestedin-icon-shortcodes": {
     "0.6.2": 1192,
     "0.6.1": 293,
     "0.6.0": 307,
@@ -11578,7 +11578,7 @@
     "0.1.1": 3,
     "0.1.0": 3
   },
-  "obsidian-tagfolder": {
+  "obestedin-tagfolder": {
     "0.6.1": 356,
     "0.6.0": 525,
     "0.5.2": 40,
@@ -11666,7 +11666,7 @@
     "0.18.10": 19767,
     "0.18.11": 19174
   },
-  "obsidian-advanced-slides": {
+  "obestedin-advanced-slides": {
     "1.20.0": 372060,
     "1.19.0": 143827,
     "1.18.1": 28677,
@@ -11769,7 +11769,7 @@
     "0.9.0": 10,
     "0.8.0": 10
   },
-  "obsidian-graphviz": {
+  "obestedin-graphviz": {
     "1.0.3": 1066,
     "1.0.2": 38,
     "1.0.1": 40,
@@ -11790,7 +11790,7 @@
     "0.2.0": 2706,
     "0.2.1": 1575
   },
-  "obsidian-emotion-picker": {
+  "obestedin-emotion-picker": {
     "0.1.1": 131,
     "0.1.0": 118,
     "downloads": 8987,
@@ -11819,7 +11819,7 @@
     "0.7.0": 376,
     "0.7.1": 4604
   },
-  "obsidian-metronome-plugin": {
+  "obestedin-metronome-plugin": {
     "0.8.0": 82,
     "0.7.0": 40,
     "0.6.1": 18,
@@ -11835,7 +11835,7 @@
     "0.3.2": 18,
     "updated": 1642871590000
   },
-  "obsidian-wrap-with-shortcuts": {
+  "obestedin-wrap-with-shortcuts": {
     "1.1.0": 590,
     "1.0.1": 95,
     "downloads": 10077,
@@ -11843,7 +11843,7 @@
     "updated": 1679402726000,
     "1.3.0": 8329
   },
-  "obsidian-tomorrows-daily-note": {
+  "obestedin-tomorrows-daily-note": {
     "1.0.2": 6823,
     "downloads": 12625,
     "1.0.1": 33,
@@ -11856,7 +11856,7 @@
     "1.4.0": 1625,
     "1.3.0": 17
   },
-  "obsidian-rant": {
+  "obestedin-rant": {
     "0.5.2": 35,
     "0.5.1": 23,
     "0.5.0": 20,
@@ -11881,14 +11881,14 @@
     "0.5.9": 3801,
     "updated": 1644739867000
   },
-  "obsidian-global-hotkeys": {
+  "obestedin-global-hotkeys": {
     "0.1.1": 554,
     "0.1.0": 186,
     "downloads": 11930,
     "0.1.2": 11190,
     "updated": 1647354076000
   },
-  "obsidian-timestamper": {
+  "obestedin-timestamper": {
     "1.1.0": 356,
     "downloads": 35221,
     "1.0.0": 62,
@@ -11896,7 +11896,7 @@
     "1.3.0": 31190,
     "updated": 1666467995000
   },
-  "obsidian-import-json": {
+  "obestedin-import-json": {
     "0.5.1": 81,
     "0.2.0": 9,
     "downloads": 54450,
@@ -11952,7 +11952,7 @@
     "0.38.1": 295,
     "0.38.4": 661
   },
-  "obsidian-completr": {
+  "obestedin-completr": {
     "2.2.0": 283,
     "2.1.1": 29,
     "2.1.0": 8,
@@ -11994,7 +11994,7 @@
     "3.1.3": 6670,
     "3.2.0": 46481
   },
-  "obsidian-binary-file-manager-plugin": {
+  "obestedin-binary-file-manager-plugin": {
     "0.3.0": 8716,
     "0.1.0": 41,
     "downloads": 8827,
@@ -12002,14 +12002,14 @@
     "updated": 1641554813000,
     "0.0.0": 39
   },
-  "obsidian-local-file-interface-plugin": {
+  "obestedin-local-file-interface-plugin": {
     "0.1.0": 5249,
     "0.0.1": 33,
     "downloads": 5310,
     "0.0.0": 28,
     "updated": 1641556983000
   },
-  "obsidian-siteswap": {
+  "obestedin-siteswap": {
     "0.1.8": 3512,
     "0.1.7": 8,
     "0.1.6": 9,
@@ -12019,7 +12019,7 @@
     "0.1.2": 4,
     "updated": 1642954346000
   },
-  "obsidian-tweaks": {
+  "obestedin-tweaks": {
     "0.2.7": 322,
     "0.2.5": 47,
     "0.2.2": 50,
@@ -12034,7 +12034,7 @@
     "0.3.1": 25,
     "updated": 1647904947000
   },
-  "obsidian-memos": {
+  "obestedin-memos": {
     "1.7.9": 144,
     "1.7.8": 12,
     "1.7.3": 425,
@@ -12310,7 +12310,7 @@
     "0.1.8": 1132,
     "0.1.7": 9
   },
-  "obsidian-dynamic-highlights": {
+  "obestedin-dynamic-highlights": {
     "0.2.1": 368,
     "0.2.0": 44,
     "0.1.6": 70,
@@ -12335,7 +12335,7 @@
     "0.3.1": 18972,
     "updated": 1655908252000
   },
-  "obsidian-koreader-plugin": {
+  "obestedin-koreader-plugin": {
     "0.0.6": 13,
     "0.0.5": 16,
     "0.0.4": 9,
@@ -12357,7 +12357,7 @@
     "0.0.1": 9,
     "updated": 1644597066000
   },
-  "obsidian-snippetor": {
+  "obestedin-snippetor": {
     "0.1.5": 64,
     "0.1.4": 17,
     "0.1.2": 13,
@@ -12392,7 +12392,7 @@
     "downloads": 8527,
     "updated": 1643039537000
   },
-  "obsidian-lock-screen-plugin": {
+  "obestedin-lock-screen-plugin": {
     "1.0.1": 105,
     "1.0.0": 18,
     "downloads": 9424,
@@ -12412,14 +12412,14 @@
     "1.1.2": 6,
     "1.1.1": 5
   },
-  "obsidian-shortcut-launcher": {
+  "obestedin-shortcut-launcher": {
     "1.0.1": 8204,
     "1.0.0": 520,
     "downloads": 15759,
     "updated": 1712227070000,
     "1.1.0": 7035
   },
-  "obsidian-file-info-plugin": {
+  "obestedin-file-info-plugin": {
     "1.2.5": 3079,
     "1.2.4": 110,
     "1.2.3": 116,
@@ -12432,7 +12432,7 @@
     "updated": 1673621329000,
     "1.3": 15039
   },
-  "obsidian-topic-linking": {
+  "obestedin-topic-linking": {
     "0.1.2": 485,
     "0.1.0": 70,
     "downloads": 22684,
@@ -12492,7 +12492,7 @@
     "1.0.8": 51,
     "1.1.3": 29078
   },
-  "obsidian-frontmatter-tag-suggest": {
+  "obestedin-frontmatter-tag-suggest": {
     "0.3.0": 723,
     "0.1.1": 96,
     "0.1.0": 99,
@@ -12509,7 +12509,7 @@
     "1.1.0": 28,
     "updated": 1649413826000
   },
-  "obsidian-local-rest-api": {
+  "obestedin-local-rest-api": {
     "1.1.0": 159,
     "1.0.12": 48,
     "1.0.11": 15,
@@ -12557,12 +12557,12 @@
     "3.1.0": 18657,
     "3.2.0": 22174
   },
-  "obsidian-codeblock-labels": {
+  "obestedin-codeblock-labels": {
     "1.0.0": 4729,
     "downloads": 4729,
     "updated": 1643333138000
   },
-  "obsidian-better-command-palette": {
+  "obestedin-better-command-palette": {
     "0.11.1": 107,
     "0.11.0": 67,
     "0.10.0": 328,
@@ -12597,12 +12597,12 @@
     "0.17.1": 18418,
     "0.5.2": 3
   },
-  "obsidian-relativenumber": {
+  "obestedin-relativenumber": {
     "1.0.0": 4840,
     "downloads": 4840,
     "updated": 1644093875000
   },
-  "obsidian-core-search-assistant-plugin": {
+  "obestedin-core-search-assistant-plugin": {
     "0.7.0": 451,
     "0.6.2": 123,
     "0.6.1": 64,
@@ -12643,13 +12643,13 @@
     "0.9.4": 1988,
     "0.9.3": 8
   },
-  "obsidian-save-as-gist": {
+  "obestedin-save-as-gist": {
     "0.0.2": 4181,
     "downloads": 4194,
     "0.0.1": 13,
     "updated": 1643081772000
   },
-  "obsidian-divide-and-conquer": {
+  "obestedin-divide-and-conquer": {
     "0.4.0": 1008,
     "0.3.0": 301,
     "downloads": 9168,
@@ -12659,7 +12659,7 @@
     "updated": 1736942763000,
     "1.0.2": 1414
   },
-  "obsidian-excel-to-markdown-table": {
+  "obestedin-excel-to-markdown-table": {
     "0.2.2": 6955,
     "0.2.1": 635,
     "0.2.0": 112,
@@ -12671,7 +12671,7 @@
     "0.3.0": 38,
     "updated": 1655458613000
   },
-  "obsidian-power-search": {
+  "obestedin-power-search": {
     "0.0.12": 219,
     "0.0.11": 169,
     "0.0.10": 19,
@@ -12771,7 +12771,7 @@
     "downloads": 12538,
     "updated": 1645172942000
   },
-  "obsidian-chevereto-image-uploader": {
+  "obestedin-chevereto-image-uploader": {
     "1.0.1": 3583,
     "1.0.0": 12,
     "downloads": 3595,
@@ -12808,7 +12808,7 @@
     "1.1.1": 27,
     "1.1.0": 9
   },
-  "obsidian-command-palette-minus-plugin": {
+  "obestedin-command-palette-minus-plugin": {
     "0.1.1": 4789,
     "0.0.1": 24,
     "downloads": 4850,
@@ -12816,7 +12816,7 @@
     "updated": 1644245377000,
     "0.0.0": 18
   },
-  "obsidian-remember-file-state": {
+  "obestedin-remember-file-state": {
     "downloads": 12347,
     "1.0.4": 133,
     "1.0.5": 594,
@@ -12828,7 +12828,7 @@
     "1.1.1": 1679,
     "1.1.2": 6344
   },
-  "obsidian-things-link": {
+  "obestedin-things-link": {
     "1.1.2": 6818,
     "1.0.2": 24,
     "downloads": 6903,
@@ -12965,19 +12965,19 @@
     "2.59.0": 4954,
     "2.59.2": 3780
   },
-  "obsidian-living-graph": {
+  "obestedin-living-graph": {
     "1.0.3": 11698,
     "1.0.2": 20,
     "1.0.0": 23,
     "downloads": 11741,
     "updated": 1645776495000
   },
-  "obsidian-hotkeys-chords": {
+  "obestedin-hotkeys-chords": {
     "0.1.0": 4153,
     "downloads": 4153,
     "updated": 1645569895000
   },
-  "obsidian-key-sequence-shortcut": {
+  "obestedin-key-sequence-shortcut": {
     "2.0.1": 36,
     "1.0.2": 104,
     "downloads": 4814,
@@ -12985,7 +12985,7 @@
     "1.0.1": 27,
     "updated": 1647311834000
   },
-  "obsidian-full-calendar": {
+  "obestedin-full-calendar": {
     "0.5.1": 938,
     "0.4.5": 8,
     "0.4.0": 5,
@@ -13055,7 +13055,7 @@
     "0.7.0": 5996,
     "0.7.1": 53303
   },
-  "obsidian-daily-notes-opener": {
+  "obestedin-daily-notes-opener": {
     "2.0.1": 29,
     "2.0.0": 35,
     "downloads": 7618,
@@ -13075,13 +13075,13 @@
     "1.0.0": 9,
     "updated": 1650253703000
   },
-  "obsidian-mark-and-select": {
+  "obestedin-mark-and-select": {
     "1.0.2": 4369,
     "1.0.1": 22,
     "downloads": 4391,
     "updated": 1645896427000
   },
-  "obsidian-bible-linker": {
+  "obestedin-bible-linker": {
     "1.0.0": 18,
     "downloads": 14549,
     "1.0.1": 18,
@@ -13128,7 +13128,7 @@
     "1.5.13": 186,
     "1.5.14": 1034
   },
-  "obsidian-circuitjs": {
+  "obestedin-circuitjs": {
     "1.0.0": 4608,
     "downloads": 4608,
     "updated": 1646786848000
@@ -13160,7 +13160,7 @@
     "0.6.6": 4298,
     "0.7.0": 19053
   },
-  "obsidian-kobo-highlights-importer-plugin": {
+  "obestedin-kobo-highlights-importer-plugin": {
     "1.0.1": 246,
     "downloads": 9774,
     "1.0.2": 11,
@@ -13188,14 +13188,14 @@
     "3.0.0": 764,
     "4.0.0": 875
   },
-  "obsidian-dynamic-embed": {
+  "obestedin-dynamic-embed": {
     "1.1.0": 7479,
     "1.0.2": 39,
     "1.0.1": 41,
     "downloads": 7559,
     "updated": 1646817517000
   },
-  "obsidian-steemit": {
+  "obestedin-steemit": {
     "0.0.3": 28,
     "downloads": 3870,
     "0.0.4": 29,
@@ -13223,7 +13223,7 @@
     "0.0.1": 3,
     "0.4.4": 142
   },
-  "obsidian-kindle-export": {
+  "obestedin-kindle-export": {
     "0.0.4": 118,
     "0.0.3": 17,
     "downloads": 9315,
@@ -13239,7 +13239,7 @@
     "updated": 1671135700000,
     "0.0.14": 7428
   },
-  "obsidian-search-everywhere-plugin": {
+  "obestedin-search-everywhere-plugin": {
     "1.0.9": 177,
     "1.0.8": 32,
     "1.0.7": 31,
@@ -13254,7 +13254,7 @@
     "1.0.0": 58,
     "updated": 1647267886000
   },
-  "obsidian-textgenerator-plugin": {
+  "obestedin-textgenerator-plugin": {
     "0.0.6": 123,
     "0.0.4": 8,
     "0.0.3": 12,
@@ -13463,7 +13463,7 @@
     "0.3.1": 83067,
     "updated": 1652522572000
   },
-  "obsidian-vim-multibyte-char-search": {
+  "obestedin-vim-multibyte-char-search": {
     "1.0.2": 17,
     "downloads": 4034,
     "1.0.3": 751,
@@ -13471,7 +13471,7 @@
     "1.0.4": 3254,
     "updated": 1650577556000
   },
-  "obsidian-extract-pdf-annotations": {
+  "obestedin-extract-pdf-annotations": {
     "1.0.2": 221,
     "1.0.0": 31,
     "0.0.1": 25,
@@ -13490,7 +13490,7 @@
     "1.8.0": 1005,
     "1.8.1": 1767
   },
-  "obsidian-file-cleaner": {
+  "obestedin-file-cleaner": {
     "0.1.1": 148,
     "0.1.0": 55,
     "0.0.5": 57,
@@ -13505,7 +13505,7 @@
     "0.1.5": 23141,
     "updated": 1648817345000
   },
-  "obsidian-card-view-switcher-plugin": {
+  "obestedin-card-view-switcher-plugin": {
     "0.4.0": 6711,
     "0.3.4": 47,
     "0.3.3": 35,
@@ -13617,7 +13617,7 @@
     "1.1.0": 6444,
     "updated": 1649801775000
   },
-  "obsidian-matrix": {
+  "obestedin-matrix": {
     "1.0.0": 944,
     "downloads": 8218,
     "1.4.0": 6957,
@@ -13638,7 +13638,7 @@
     "2.0.0": 5992,
     "2.1.0": 42842
   },
-  "obsidian-hover-editor": {
+  "obestedin-hover-editor": {
     "0.5.1": 576,
     "0.5.0": 10,
     "0.4.6": 249,
@@ -13717,7 +13717,7 @@
     "0.11.25": 13036,
     "0.11.26": 48925
   },
-  "obsidian-screwdriver": {
+  "obestedin-screwdriver": {
     "0.0.3": 328,
     "downloads": 4671,
     "0.0.2": 15,
@@ -13730,7 +13730,7 @@
     "0.0.8": 1278,
     "0.0.9": 116
   },
-  "obsidian-version-history-diff": {
+  "obestedin-version-history-diff": {
     "2.0.0": 197,
     "1.6.0": 8,
     "1.2.0": 6,
@@ -13776,12 +13776,12 @@
     "2.1.13": 19,
     "2.2.1": 11370
   },
-  "obsidian-format-code": {
+  "obestedin-format-code": {
     "0.0.1": 10312,
     "downloads": 10312,
     "updated": 1647709702000
   },
-  "obsidian-buttondown-plugin": {
+  "obestedin-buttondown-plugin": {
     "0.9.2": 331,
     "downloads": 3933,
     "updated": 1680086298000,
@@ -13800,7 +13800,7 @@
     "0.1.3": 20,
     "0.1.2": 19
   },
-  "obsidian-desmos": {
+  "obestedin-desmos": {
     "0.5.2": 77,
     "v0.5.1": 7,
     "v0.4.15": 6,
@@ -13826,7 +13826,7 @@
     "0.6.7": 95,
     "0.6.8": 7165
   },
-  "obsidian-custom-frames": {
+  "obestedin-custom-frames": {
     "2.0.0": 19,
     "downloads": 183180,
     "2.0.1": 69,
@@ -13846,7 +13846,7 @@
     "2.4.7": 60164,
     "2.5.0": 48546
   },
-  "obsidian-etherpad-plugin": {
+  "obestedin-etherpad-plugin": {
     "1.0.6": 4313,
     "downloads": 4358,
     "1.0.1": 9,
@@ -13855,7 +13855,7 @@
     "1.0.5": 12,
     "updated": 1647898452000
   },
-  "obsidian-quiet-outline": {
+  "obestedin-quiet-outline": {
     "0.1.2": 361,
     "0.1.1": 5,
     "0.1.0": 2,
@@ -13919,7 +13919,7 @@
     "0.4.0": 2090,
     "0.4.1": 7078
   },
-  "obsidian-daily-notes-viewer": {
+  "obestedin-daily-notes-viewer": {
     "0.1.6": 83,
     "0.1.5": 48,
     "0.1.4": 37,
@@ -13933,7 +13933,7 @@
     "0.1.7": 76,
     "updated": 1648301769000
   },
-  "obsidian-zotero-desktop-connector": {
+  "obestedin-zotero-desktop-connector": {
     "1.0.3": 38,
     "1.0.2": 39,
     "downloads": 381482,
@@ -14068,7 +14068,7 @@
     "3.2.1": 117248,
     "3.2.0": 622
   },
-  "obsidian-telegraph-publish": {
+  "obestedin-telegraph-publish": {
     "1.2.2": 107,
     "1.2.0": 12,
     "1.1.0": 13,
@@ -14078,7 +14078,7 @@
     "1.2.3": 4943,
     "updated": 1652771027000
   },
-  "obsidian-path-title": {
+  "obestedin-path-title": {
     "1.0.6": 1618,
     "1.0.4": 41,
     "downloads": 8924,
@@ -14090,7 +14090,7 @@
     "1.0.0": 34,
     "updated": 1663721174000
   },
-  "obsidian-jira-issue": {
+  "obestedin-jira-issue": {
     "1.2.0": 183,
     "1.1.0": 3,
     "1.0.1": 22,
@@ -14162,7 +14162,7 @@
     "1.55.0": 30,
     "1.57.0": 9368
   },
-  "smort-obsidian": {
+  "smort-obestedin": {
     "1.0.1": 3734,
     "1.0.0": 14,
     "downloads": 3748,
@@ -14179,13 +14179,13 @@
     "0.3.0": 5515,
     "updated": 1655734543000
   },
-  "obsidian-asciidoc-blocks": {
+  "obestedin-asciidoc-blocks": {
     "1.0.2": 5761,
     "downloads": 5787,
     "1.0.1": 26,
     "updated": 1649184329000
   },
-  "fleeting-notes-obsidian": {
+  "fleeting-notes-obestedin": {
     "0.0.3": 28,
     "downloads": 32818,
     "0.0.4": 90,
@@ -14228,7 +14228,7 @@
     "0.6.3": 12186,
     "0.0.2": 1
   },
-  "obsidian-chat-view": {
+  "obestedin-chat-view": {
     "1.0.0": 255,
     "downloads": 16807,
     "1.1.0": 159,
@@ -14243,7 +14243,7 @@
     "1.5.2": 718,
     "1.6.0": 12488
   },
-  "obsidian-doubleshift": {
+  "obestedin-doubleshift": {
     "2.1.1": 159,
     "1.7.0": 53,
     "downloads": 16497,
@@ -14253,7 +14253,7 @@
     "updated": 1672513889000,
     "2.2.1": 13844
   },
-  "obsidian-list-modified": {
+  "obestedin-list-modified": {
     "1.1.1": 26,
     "1.1": 24,
     "1.0.1": 12,
@@ -14297,7 +14297,7 @@
     "3.7.0": 601,
     "3.7.1": 292
   },
-  "obsidian-latex-suite": {
+  "obestedin-latex-suite": {
     "1.0.2": 167,
     "1.0.1": 4,
     "downloads": 310749,
@@ -14359,7 +14359,7 @@
     "1.9.7": 43464,
     "1.9.8": 83893
   },
-  "obsidian-wordnik": {
+  "obestedin-wordnik": {
     "1.0.0": 679,
     "downloads": 4120,
     "1.0.1": 3441,
@@ -14377,7 +14377,7 @@
     "1.2.1": 1892,
     "1.3.0": 1970
   },
-  "obsidian-google-tasks": {
+  "obestedin-google-tasks": {
     "1.1.2": 89,
     "1.1.1": 8,
     "1.1.0": 4,
@@ -14399,7 +14399,7 @@
     "1.0.2": 3,
     "1.0.1": 3
   },
-  "obsidian-jtab": {
+  "obestedin-jtab": {
     "1.0.1": 37,
     "downloads": 8139,
     "1.0.3": 31,
@@ -14414,7 +14414,7 @@
     "updated": 1710109859000,
     "1.2.3": 3085
   },
-  "obsidian-book-search-plugin": {
+  "obestedin-book-search-plugin": {
     "0.0.4": 177,
     "downloads": 165170,
     "0.0.5": 204,
@@ -14452,7 +14452,7 @@
     "0.7.4": 22658,
     "0.7.5": 46608
   },
-  "obsidian-paste-image-rename": {
+  "obestedin-paste-image-rename": {
     "1.2.1": 66,
     "1.2.0": 217,
     "1.0.1": 25,
@@ -14470,7 +14470,7 @@
     "1.6.0": 566,
     "1.6.1": 81484
   },
-  "obsidian-scroll-offset": {
+  "obestedin-scroll-offset": {
     "1.0.2": 82,
     "downloads": 8578,
     "1.0.3": 233,
@@ -14542,7 +14542,7 @@
     "2.1.0": 1752,
     "2.1.2": 20332
   },
-  "obsidian-badge": {
+  "obestedin-badge": {
     "0.3.0": 169,
     "0.2.0": 54,
     "0.1.1": 23,
@@ -14563,7 +14563,7 @@
     "1.3.3": 11304,
     "1.4.0": 2805
   },
-  "obsidian-link-embed": {
+  "obestedin-link-embed": {
     "1.1.5": 962,
     "1.1.3": 15,
     "downloads": 62756,
@@ -14599,7 +14599,7 @@
     "2.8.5": 1804,
     "2.9.0": 5091
   },
-  "obsidian-columns": {
+  "obestedin-columns": {
     "1.0.3": 35,
     "1.0.2": 2,
     "downloads": 66727,
@@ -14629,7 +14629,7 @@
     "1.6.1": 17419,
     "v1.6.0": 9
   },
-  "obsidian-mkdocs-publisher": {
+  "obestedin-mkdocs-publisher": {
     "2.3.0": 8,
     "downloads": 44888,
     "2.3.1": 33,
@@ -15085,7 +15085,7 @@
     "7.6.3": 730,
     "7.6.4-0": 9
   },
-  "obsidian-notion-video": {
+  "obestedin-notion-video": {
     "downloads": 4285,
     "0.0.6": 16,
     "0.0.7": 170,
@@ -15097,7 +15097,7 @@
     "0.0.8": 4035,
     "updated": 1664034640000
   },
-  "obsidian-math-plus": {
+  "obestedin-math-plus": {
     "0.2.4": 31,
     "0.2.3": 9,
     "0.2.1": 9,
@@ -15127,7 +15127,7 @@
     "0.6.3": 15,
     "0.1.1": 3
   },
-  "obsidian-todoist-link": {
+  "obestedin-todoist-link": {
     "downloads": 11305,
     "2.0.2": 598,
     "2.0.1": 34,
@@ -15140,7 +15140,7 @@
     "2.1.0": 50,
     "2.0.6": 38
   },
-  "obsidian-rewarder": {
+  "obestedin-rewarder": {
     "0.1.0": 237,
     "downloads": 30129,
     "0.2.0": 1242,
@@ -15149,7 +15149,7 @@
     "0.3.0": 21788,
     "0.4.0": 4460
   },
-  "obsidian-calibre-plugin": {
+  "obestedin-calibre-plugin": {
     "1.0.5": 1114,
     "1.0.4": 85,
     "1.0.3": 91,
@@ -15357,7 +15357,7 @@
     "1.5.2": 1752,
     "1.5.3": 816
   },
-  "obsidian-paste-png-to-jpeg": {
+  "obestedin-paste-png-to-jpeg": {
     "1.0.0": 103,
     "downloads": 10695,
     "1.0.1": 150,
@@ -15366,7 +15366,7 @@
     "1.0.4": 8811,
     "1.0.3": 36
   },
-  "obsidian-folder-index": {
+  "obestedin-folder-index": {
     "v1.0.2": 144,
     "v1.0.0": 7,
     "downloads": 28719,
@@ -15400,13 +15400,13 @@
     "1.0.28": 103,
     "1.0.29": 5513
   },
-  "obsidian-filename-emoji-remover": {
+  "obestedin-filename-emoji-remover": {
     "1.0.0": 15,
     "downloads": 4004,
     "1.0.1": 3989,
     "updated": 1651418815000
   },
-  "obsidian-epub-plugin": {
+  "obestedin-epub-plugin": {
     "1.0.0": 935,
     "downloads": 37139,
     "1.0.1": 3995,
@@ -15414,7 +15414,7 @@
     "1.0.2": 26243,
     "1.0.3": 5966
   },
-  "obsidian-pandoc-reference-list": {
+  "obestedin-pandoc-reference-list": {
     "1.2.2": 254,
     "1.2.0": 56,
     "1.1.19": 13,
@@ -15479,7 +15479,7 @@
     "2.0.25": 36917,
     "1.1.15": 1
   },
-  "obsidian-enhancing-export": {
+  "obestedin-enhancing-export": {
     "1.0.6": 92,
     "1.0.5": 55,
     "1.0.4": 14,
@@ -15535,14 +15535,14 @@
     "1.10.8": 18368,
     "1.10.9": 61980
   },
-  "enlightenment-obsidian": {
+  "enlightenment-obestedin": {
     "1.2.1": 5419,
     "1.1.0": 30,
     "1.0.0": 26,
     "downloads": 5475,
     "updated": 1652795501000
   },
-  "obsidian-release-timeline": {
+  "obestedin-release-timeline": {
     "1.0.2": 55,
     "1.0.1": 31,
     "1.0.0": 23,
@@ -15557,7 +15557,7 @@
     "1.2.0": 2465,
     "1.3.0": 3581
   },
-  "obsidian-folder-focus-mode": {
+  "obestedin-folder-focus-mode": {
     "0.9.3": 665,
     "0.9.2": 34,
     "0.9.1": 30,
@@ -15573,14 +15573,14 @@
     "0.9.12": 6955,
     "0.9.13": 3962
   },
-  "obsidian-bbcode": {
+  "obestedin-bbcode": {
     "1.0.0": 1575,
     "downloads": 4000,
     "updated": 1709597909000,
     "1.1.0": 1194,
     "1.2.0": 1231
   },
-  "obsidian-upcoming": {
+  "obestedin-upcoming": {
     "0.1.0": 187,
     "downloads": 4437,
     "0.2.0": 115,
@@ -15604,7 +15604,7 @@
     "1.2.4": 687,
     "1.2.5": 5313
   },
-  "obsidian-front-matter-title-plugin": {
+  "obestedin-front-matter-title-plugin": {
     "1.2.0-beta": 9,
     "1.1.1": 26,
     "1.1.0-beta": 15,
@@ -15690,7 +15690,7 @@
     "3.13.1": 6651,
     "3.13.0": 11
   },
-  "obsidian-bellboy": {
+  "obestedin-bellboy": {
     "1.0.7": 13,
     "downloads": 3793,
     "1.0.6": 11,
@@ -15701,7 +15701,7 @@
     "1.0.9": 11,
     "updated": 1659776840000
   },
-  "obsidian-functionplot": {
+  "obestedin-functionplot": {
     "1.0.0": 51,
     "downloads": 16952,
     "1.0.1": 131,
@@ -15713,7 +15713,7 @@
     "1.2.0": 44,
     "updated": 1661275339000
   },
-  "obsidian-note-autocreator": {
+  "obestedin-note-autocreator": {
     "1.1.0": 89,
     "1.0.99": 6,
     "1.0.2": 14,
@@ -15780,7 +15780,7 @@
     "1.2.6": 3,
     "0.1.1": 2
   },
-  "obsidian-state-switcher": {
+  "obestedin-state-switcher": {
     "1.0.2": 187,
     "1.0.1": 33,
     "downloads": 10429,
@@ -15796,7 +15796,7 @@
     "1.3.3": 9328,
     "updated": 1656554529000
   },
-  "obsidian-media-db-plugin": {
+  "obestedin-media-db-plugin": {
     "0.1.11": 273,
     "0.1.8": 47,
     "0.1.0": 7,
@@ -15828,7 +15828,7 @@
     "0.8.0": 7728,
     "0.8.0-canary.20250615T192500": 23
   },
-  "obsidian-sequence-hotkeys": {
+  "obestedin-sequence-hotkeys": {
     "0.3.1": 126,
     "0.2.1": 42,
     "0.1.0": 82,
@@ -15911,7 +15911,7 @@
     "0.2.13": 158,
     "0.2.15": 86189
   },
-  "obsidian-expand-bullet": {
+  "obestedin-expand-bullet": {
     "1.0.2": 4897,
     "downloads": 4921,
     "1.0.1": 24,
@@ -16023,7 +16023,7 @@
     "3.5.0": 44965,
     "3.5.1": 115135
   },
-  "obsidian-advanced-codeblock": {
+  "obestedin-advanced-codeblock": {
     "1.0.1": 125,
     "downloads": 14991,
     "1.0.3": 162,
@@ -16068,7 +16068,7 @@
     "1.2": 15,
     "updated": 1656044443000
   },
-  "obsidian-camera": {
+  "obestedin-camera": {
     "1.0.3": 58,
     "1.0.1": 14,
     "downloads": 12459,
@@ -16083,7 +16083,7 @@
     "1.8.0": 6521,
     "1.6.0": 42
   },
-  "obsidian-user-plugins": {
+  "obestedin-user-plugins": {
     "1.3.0": 4468,
     "downloads": 5431,
     "1.1.1": 23,
@@ -16092,7 +16092,7 @@
     "updated": 1731769147000,
     "1.4.0": 895
   },
-  "obsidian-timestamp-notes": {
+  "obestedin-timestamp-notes": {
     "1.0.7": 560,
     "1.0.6": 77,
     "1.0.5": 78,
@@ -16133,7 +16133,7 @@
     "0.0.1": 10,
     "0.0.7": 896
   },
-  "obsidian-share-as-gist": {
+  "obestedin-share-as-gist": {
     "1.0.0": 51,
     "downloads": 8606,
     "1.0.1": 49,
@@ -16159,7 +16159,7 @@
     "updated": 1717844703000,
     "1.0.4": 4377
   },
-  "obsidian-google-lookup": {
+  "obestedin-google-lookup": {
     "1.0.3": 79,
     "downloads": 13486,
     "1.1.1": 166,
@@ -16174,12 +16174,12 @@
     "1.5.2": 780,
     "1.5.3": 275
   },
-  "obsidian-stack-overflow": {
+  "obestedin-stack-overflow": {
     "1.0.1": 4182,
     "downloads": 4182,
     "updated": 1654134518000
   },
-  "obsidian-redirect": {
+  "obestedin-redirect": {
     "0.1.3": 6,
     "0.1.0": 3,
     "downloads": 7614,
@@ -16231,7 +16231,7 @@
     "1.0.3": 10,
     "updated": 1655927476000
   },
-  "obsidian-to-notion": {
+  "obestedin-to-notion": {
     "0.6.6": 156,
     "0.5.6": 6,
     "0.5.5": 8,
@@ -16256,14 +16256,14 @@
     "0.7.4": 35,
     "0.7.3": 25
   },
-  "obsidian-image-gallery": {
+  "obestedin-image-gallery": {
     "1.0.0": 1555,
     "downloads": 25747,
     "updated": 1671774139000,
     "1.1.1": 24140,
     "1.1.0": 52
   },
-  "obsidian-thumbnails": {
+  "obestedin-thumbnails": {
     "1.1.0": 226,
     "1.0.4": 13,
     "1.0.1": 19,
@@ -16284,7 +16284,7 @@
     "1.3.2": 47,
     "1.3.1": 4338
   },
-  "obsidian-table-to-csv-exporter": {
+  "obestedin-table-to-csv-exporter": {
     "0.1.4": 13521,
     "0.1.3": 45,
     "0.1.2": 60,
@@ -16293,7 +16293,7 @@
     "updated": 1654960322000,
     "0.1.0": 35
   },
-  "obsidian-task-progress-bar": {
+  "obestedin-task-progress-bar": {
     "1.3.1": 78,
     "1.3.0": 35,
     "1.1.1": 1363,
@@ -16406,7 +16406,7 @@
     "1.3.0": 491,
     "1.4.0": 4383
   },
-  "obsidian-translator": {
+  "obestedin-translator": {
     "0.1.1": 324,
     "0.1.0": 6,
     "downloads": 12188,
@@ -16430,19 +16430,19 @@
     "0.3.12": 996,
     "0.4.1": 2676
   },
-  "obsidian-echarts": {
+  "obestedin-echarts": {
     "0.0.3": 7352,
     "0.0.2": 50,
     "downloads": 7402,
     "updated": 1655968892000
   },
-  "obsidian-diagrams-net": {
+  "obestedin-diagrams-net": {
     "1.0.4": 36519,
     "1.0.1": 44,
     "downloads": 36563,
     "updated": 1655961199000
   },
-  "obsidian-weread-plugin": {
+  "obestedin-weread-plugin": {
     "0.2.6": 183,
     "0.2.5": 17,
     "0.2.4": 3,
@@ -16510,7 +16510,7 @@
     "1.0.1": 1578,
     "1.0.2": 2925
   },
-  "obsidian-golinks": {
+  "obestedin-golinks": {
     "0.1.0": 22,
     "downloads": 4132,
     "0.1.1": 2471,
@@ -16532,7 +16532,7 @@
     "updated": 1658047744000,
     "0.2.0": 12
   },
-  "typing-transformer-obsidian": {
+  "typing-transformer-obestedin": {
     "0.1.4": 80,
     "0.1.2": 24,
     "downloads": 8630,
@@ -16552,7 +16552,7 @@
     "0.4.3": 5,
     "0.4.5": 1238
   },
-  "obsidian-list-callouts": {
+  "obestedin-list-callouts": {
     "1.0.3": 206,
     "1.0.2": 20,
     "1.0.1": 15,
@@ -16582,7 +16582,7 @@
     "1.2.8": 670,
     "1.2.9": 41082
   },
-  "obsidian-text-expander-js": {
+  "obestedin-text-expander-js": {
     "0.18.0": 22,
     "0.16.2": 2,
     "0.15.1": 1,
@@ -16791,7 +16791,7 @@
     "0.8.7": 47783,
     "0.8.9": 16938
   },
-  "obsidian-plugin-time-diff": {
+  "obestedin-plugin-time-diff": {
     "0.0.2": 373,
     "0.0.1": 24,
     "downloads": 5305,
@@ -16800,7 +16800,7 @@
     "1.0.0": 2214,
     "1.1.0": 1804
   },
-  "obsidian-trim-whitespace": {
+  "obestedin-trim-whitespace": {
     "0.2.0": 128,
     "0.1.0": 45,
     "downloads": 10152,
@@ -16867,7 +16867,7 @@
     "0.5.4": 37080,
     "0.5.3": 700
   },
-  "obsidian-attendance": {
+  "obestedin-attendance": {
     "0.6.1": 3813,
     "0.6.0": 20,
     "0.5.2": 18,
@@ -16889,7 +16889,7 @@
     "updated": 1675894101000,
     "1.1.1": 28394
   },
-  "obsidian-path-finder": {
+  "obestedin-path-finder": {
     "1.0.12": 261,
     "1.0.6": 26,
     "1.0.5": 11,
@@ -16908,7 +16908,7 @@
     "1.1.5": 36,
     "1.1.7": 6088
   },
-  "obsidian-focus-plugin": {
+  "obestedin-focus-plugin": {
     "1.1.3": 134,
     "1.1.1": 29,
     "downloads": 7551,
@@ -16925,7 +16925,7 @@
     "updated": 1667291667000,
     "1.1.0": 24
   },
-  "obsidian-file-cooker": {
+  "obestedin-file-cooker": {
     "1.3.3": 88,
     "1.3.1": 9,
     "1.2.0": 8,
@@ -17051,7 +17051,7 @@
     "2.13.3": 3318,
     "2.13.4": 5212
   },
-  "obsidian-meeting-notes": {
+  "obestedin-meeting-notes": {
     "1.0.4": 778,
     "1.0.3": 21,
     "1.0.1": 20,
@@ -17061,7 +17061,7 @@
     "1.0.5": 5362,
     "1.0.6": 1269
   },
-  "obsidian-plugin-tagged-documents-viewer": {
+  "obestedin-plugin-tagged-documents-viewer": {
     "1.0.2": 9090,
     "1.0.1": 28972,
     "downloads": 38062,
@@ -17151,7 +17151,7 @@
     "0.0.11": 5666,
     "0.0.12": 3018
   },
-  "obsidian-open-file-by-magic-date": {
+  "obestedin-open-file-by-magic-date": {
     "0.0.4": 51,
     "downloads": 4112,
     "0.1.0": 203,
@@ -17159,7 +17159,7 @@
     "0.1.1": 119,
     "0.1.2": 3739
   },
-  "obsidian-heading-shifter": {
+  "obestedin-heading-shifter": {
     "1.0.2": 234,
     "downloads": 22646,
     "1.0.1": 60,
@@ -17179,7 +17179,7 @@
     "1.7.2": 1157,
     "1.8.0": 3587
   },
-  "obsidian-group-snippets": {
+  "obestedin-group-snippets": {
     "1.5.0": 16,
     "1.4.0": 7,
     "1.3.0": 6,
@@ -17209,7 +17209,7 @@
     "1.10.2": 27,
     "1.10.3": 598
   },
-  "obsidian-raindrop-highlights": {
+  "obestedin-raindrop-highlights": {
     "0.0.11": 89,
     "0.0.9": 27,
     "downloads": 24559,
@@ -17248,13 +17248,13 @@
     "1.2.7": 10891,
     "1.2.6": 26
   },
-  "obsidian-dashing-cursor": {
+  "obestedin-dashing-cursor": {
     "0.0.1": 285,
     "downloads": 4704,
     "0.0.2": 4419,
     "updated": 1665758308000
   },
-  "obsidian-quickshare": {
+  "obestedin-quickshare": {
     "0.4.1": 97,
     "0.2.1": 36,
     "0.1.0": 8,
@@ -17409,7 +17409,7 @@
     "1.2.0": 7084,
     "updated": 1662749453000
   },
-  "obsidian-bulk-rename-plugin": {
+  "obestedin-bulk-rename-plugin": {
     "0.2.5": 44,
     "0.2.4": 3,
     "downloads": 14012,
@@ -17437,7 +17437,7 @@
     "0.1.0": 2,
     "0.0.1": 2
   },
-  "obsidian-agile-task-notes": {
+  "obestedin-agile-task-notes": {
     "1.0.1": 105,
     "downloads": 9833,
     "1.0.2": 517,
@@ -17482,7 +17482,7 @@
     "0.11.9": 9034,
     "0.11.8": 12
   },
-  "obsidian-open-in-other-editor": {
+  "obestedin-open-in-other-editor": {
     "0.0.3": 139,
     "downloads": 6128,
     "0.0.4": 1056,
@@ -17490,13 +17490,13 @@
     "updated": 1686666001000,
     "0.0.5": 4910
   },
-  "obsidian-simple-mention": {
+  "obestedin-simple-mention": {
     "0.1.0": 967,
     "downloads": 5732,
     "updated": 1684955798000,
     "1.0.0": 4765
   },
-  "obsidian-auto-hide": {
+  "obestedin-auto-hide": {
     "0.3.0": 330,
     "0.2.4": 38,
     "downloads": 13975,
@@ -17537,7 +17537,7 @@
     "1.4.1": 89,
     "1.5.0": 331
   },
-  "obsidian-party": {
+  "obestedin-party": {
     "1.0.1": 87,
     "1.0.0": 25,
     "downloads": 6144,
@@ -17549,7 +17549,7 @@
     "updated": 1669065093000,
     "2.1.0": 5302
   },
-  "obsidian-day-and-night": {
+  "obestedin-day-and-night": {
     "1.0.3": 726,
     "1.0.2": 29,
     "1.0.1": 29,
@@ -17562,7 +17562,7 @@
     "1.2.0": 176,
     "1.2.1": 5197
   },
-  "obsidian-tikzjax": {
+  "obestedin-tikzjax": {
     "0.5.1": 16088,
     "0.5.0": 32,
     "0.4.0": 35,
@@ -17726,7 +17726,7 @@
     "1.10.15": 36098,
     "1.10.16": 19840
   },
-  "obsidian-copy-search-url": {
+  "obestedin-copy-search-url": {
     "1.0.3": 203,
     "downloads": 5160,
     "1.0.4": 239,
@@ -17824,7 +17824,7 @@
     "3.1.5": 8839,
     "3.1.6": 1876
   },
-  "obsidian-table-generator": {
+  "obestedin-table-generator": {
     "1.3.1": 15136,
     "1.3.0": 36,
     "1.2.2": 73,
@@ -17884,7 +17884,7 @@
     "1.1.2": 19,
     "1.1.4": 3086
   },
-  "obsidian-meta-bind-plugin": {
+  "obestedin-meta-bind-plugin": {
     "0.3.0": 321,
     "0.2.1": 96,
     "0.2.0": 24,
@@ -18034,7 +18034,7 @@
     "2.6.0": 184,
     "2.7.0": 535
   },
-  "obsidian-sakana-widget": {
+  "obestedin-sakana-widget": {
     "1.1.0": 160,
     "1.0.1": 19,
     "downloads": 5101,
@@ -18042,7 +18042,7 @@
     "2.0.6": 21,
     "updated": 1667036952000
   },
-  "obsidian-min-width": {
+  "obestedin-min-width": {
     "1.0.3": 86,
     "1.0.2": 37,
     "1.0.0": 22,
@@ -18081,7 +18081,7 @@
     "1.1.13": 8417,
     "1.1.14": 6933
   },
-  "obsidian-toggle-list": {
+  "obestedin-toggle-list": {
     "1.0.0": 180,
     "downloads": 16972,
     "1.0.2": 125,
@@ -18110,7 +18110,7 @@
     "0.1.0": 10,
     "updated": 1664137852000
   },
-  "obsidian-theme-toggler": {
+  "obestedin-theme-toggler": {
     "1.0.1": 5889,
     "1.0.0": 26,
     "0.0.1": 23,
@@ -18142,7 +18142,7 @@
     "2.1.0": 77,
     "2.1.2": 18295
   },
-  "obsidian-week-planner": {
+  "obestedin-week-planner": {
     "0.0.1": 56,
     "downloads": 9825,
     "0.0.2": 63,
@@ -18155,7 +18155,7 @@
     "0.1.2": 102,
     "0.1.4": 8482
   },
-  "obsidian-html-plugin": {
+  "obestedin-html-plugin": {
     "1.0.3": 771,
     "1.0.2": 53,
     "1.0.1": 31,
@@ -18228,7 +18228,7 @@
     "downloads": 6950,
     "updated": 1663659551000
   },
-  "obsidian-douban-plugin": {
+  "obestedin-douban-plugin": {
     "v1.5.0": 58,
     "v1.4.3": 51,
     "1.4.2": 11,
@@ -18327,7 +18327,7 @@
     "0.1.0": 96,
     "updated": 1665751909000
   },
-  "obsidian-plugin-update-tracker": {
+  "obestedin-plugin-update-tracker": {
     "0.0.1": 111,
     "downloads": 135821,
     "1.0.0": 213,
@@ -18442,7 +18442,7 @@
     "1.7.3": 2744,
     "1.8.1": 5631
   },
-  "obsidian-dynamic-background": {
+  "obestedin-dynamic-background": {
     "1.0.1": 103,
     "1.0.0": 30,
     "downloads": 16724,
@@ -18453,7 +18453,7 @@
     "1.0.5": 1930,
     "1.0.6": 14143
   },
-  "obsidian-note-content-pusher": {
+  "obestedin-note-content-pusher": {
     "1.0.4": 3867,
     "1.0.3": 21,
     "1.0.2": 17,
@@ -18474,7 +18474,7 @@
     "2.1.0": 256,
     "2.1.5": 11252
   },
-  "obsidian-alias-from-heading": {
+  "obestedin-alias-from-heading": {
     "1.0.12": 2470,
     "1.0.11": 17,
     "1.0.10": 26,
@@ -18496,7 +18496,7 @@
     "1.1.0": 12,
     "1.1.2": 725
   },
-  "obsidian-ocr": {
+  "obestedin-ocr": {
     "1.4.1": 92,
     "1.4.0": 57,
     "1.3.2": 39,
@@ -18512,7 +18512,7 @@
     "2.0.0": 6284,
     "2.0.1": 9786
   },
-  "obsidian-gitlab-issues": {
+  "obestedin-gitlab-issues": {
     "0.1.3": 12,
     "0.1.0": 12,
     "downloads": 5007,
@@ -18525,7 +18525,7 @@
     "0.1.9": 1445,
     "0.1.10": 773
   },
-  "obsidian-account-linker": {
+  "obestedin-account-linker": {
     "1.0.2": 3194,
     "1.0.1": 1114,
     "downloads": 4322,
@@ -18543,7 +18543,7 @@
     "1.1.3": 13,
     "1.2.0": 12334
   },
-  "obsidian-mtg": {
+  "obestedin-mtg": {
     "1.0.3": 22,
     "1.0.2": 26,
     "1.0.1": 27,
@@ -18557,7 +18557,7 @@
     "1.0.9": 3664,
     "1.0.8": 19
   },
-  "obsidian-markdown-file-suffix": {
+  "obestedin-markdown-file-suffix": {
     "1.0.1": 3184,
     "1.0.0": 1153,
     "downloads": 4337,
@@ -18667,7 +18667,7 @@
     "2.6.5": 12412,
     "2.7.0": 3892
   },
-  "obsidian-checkbox3states-plugin": {
+  "obestedin-checkbox3states-plugin": {
     "1.1.5": 6700,
     "1.1.3": 19,
     "1.1.2": 30,
@@ -18682,13 +18682,13 @@
     "downloads": 4146,
     "updated": 1665905572000
   },
-  "qmd-as-md-obsidian": {
+  "qmd-as-md-obestedin": {
     "0.0.2": 4610,
     "downloads": 6224,
     "updated": 1735852248000,
     "0.0.3": 1614
   },
-  "obsidian-to-flomo": {
+  "obestedin-to-flomo": {
     "0.1.0": 47,
     "downloads": 5012,
     "0.1.1": 577,
@@ -18698,7 +18698,7 @@
     "0.1.8": 849,
     "0.1.9": 1962
   },
-  "obsidian-things3-sync": {
+  "obestedin-things3-sync": {
     "1.0.2": 398,
     "1.0.1": 46,
     "downloads": 13319,
@@ -18745,7 +18745,7 @@
     "downloads": 8370,
     "updated": 1666384268000
   },
-  "obsidian-trash-explorer": {
+  "obestedin-trash-explorer": {
     "1.0.0": 121,
     "downloads": 38248,
     "1.0.1": 392,
@@ -18777,21 +18777,21 @@
     "0.3.1": 3004,
     "0.2.2": 2
   },
-  "obsidian-new-note-new-window": {
+  "obestedin-new-note-new-window": {
     "1.0.0": 103,
     "downloads": 4693,
     "updated": 1681770100000,
     "1.0.1": 396,
     "1.1.1": 4194
   },
-  "obsidian-awesome-flashcard": {
+  "obestedin-awesome-flashcard": {
     "0.1.0": 219,
     "downloads": 4954,
     "updated": 1674967440000,
     "0.1.1": 198,
     "0.1.2": 4537
   },
-  "obsidian-daily-note-outline": {
+  "obestedin-daily-note-outline": {
     "0.1.1": 156,
     "downloads": 22415,
     "0.2.0": 351,
@@ -18820,7 +18820,7 @@
     "1.0.0": 6,
     "updated": 1666546200000
   },
-  "obsidian-pretty-bibtex": {
+  "obestedin-pretty-bibtex": {
     "1.0.0": 3052,
     "downloads": 8666,
     "updated": 1708717010000,
@@ -18842,7 +18842,7 @@
     "1.2.6": 296,
     "1.2.7": 8623
   },
-  "obsidian-scroll-to-top-plugin": {
+  "obestedin-scroll-to-top-plugin": {
     "1.4.0": 109,
     "1.3.1": 22,
     "1.3.0": 31,
@@ -18871,7 +18871,7 @@
     "2.1.5": 2381,
     "2.1.6": 1215
   },
-  "obsidian-old-note-admonitor": {
+  "obestedin-old-note-admonitor": {
     "0.5.1": 46,
     "0.5.0": 30,
     "0.4.0": 35,
@@ -18885,7 +18885,7 @@
     "0.7.0": 1158,
     "0.8.0": 3224
   },
-  "obsidian-export-image": {
+  "obestedin-export-image": {
     "1.0.4": 2160,
     "1.0.3": 4243,
     "1.0.2": 41,
@@ -19064,7 +19064,7 @@
     "2.3.2": 16527,
     "2.3.1": 14
   },
-  "obsidian-dynbedded": {
+  "obestedin-dynbedded": {
     "1.0.0": 4681,
     "downloads": 4681,
     "updated": 1667164757000
@@ -19099,19 +19099,19 @@
     "0.8.0": 206,
     "0.8.1": 11508
   },
-  "obsidian-chorded-hotkeys": {
+  "obestedin-chorded-hotkeys": {
     "1.0.0": 1330,
     "downloads": 4630,
     "updated": 1698630782000,
     "1.1.0": 3300
   },
-  "obsidian-dirtreeist": {
+  "obestedin-dirtreeist": {
     "0.0.2": 6053,
     "0.0.1": 29,
     "downloads": 6082,
     "updated": 1667305519000
   },
-  "obsidian-handlebars": {
+  "obestedin-handlebars": {
     "1.0.10": 2531,
     "downloads": 4199,
     "updated": 1707193715000,
@@ -19127,7 +19127,7 @@
     "1.0.4": 487,
     "1.0.5": 30674
   },
-  "obsidian-relation-pane": {
+  "obestedin-relation-pane": {
     "0.0.3": 330,
     "0.0.2": 29,
     "0.0.1": 46,
@@ -19136,7 +19136,7 @@
     "0.0.4": 3098,
     "0.0.5": 2304
   },
-  "obsidian-rapid-notes": {
+  "obestedin-rapid-notes": {
     "1.0.1": 661,
     "1.0.0": 33,
     "downloads": 6271,
@@ -19185,7 +19185,7 @@
     "1.0.6": 2730,
     "1.0.7": 9399
   },
-  "obsidian-quran-lookup": {
+  "obestedin-quran-lookup": {
     "0.1.0": 4183,
     "downloads": 4943,
     "updated": 1734323923000,
@@ -19211,7 +19211,7 @@
     "2.0.0": 1233,
     "2.0.2": 1582
   },
-  "obsidian-new-bullet-with-time": {
+  "obestedin-new-bullet-with-time": {
     "1.3.0": 5086,
     "1.2.0": 43,
     "1.1.3": 24,
@@ -19222,7 +19222,7 @@
     "2.0.0": 295,
     "2.1.0": 639
   },
-  "obsidian-md-to-jira": {
+  "obestedin-md-to-jira": {
     "0.0.2": 734,
     "0.0.1": 31,
     "downloads": 8022,
@@ -19234,7 +19234,7 @@
     "0.2.0": 234,
     "0.2.1": 1727
   },
-  "obsidian-achievements": {
+  "obestedin-achievements": {
     "0.0.9": 123,
     "0.0.8": 29,
     "0.0.7": 30,
@@ -19248,7 +19248,7 @@
     "0.0.6": 32,
     "0.0.10": 6034
   },
-  "obsidian-code-preview": {
+  "obestedin-code-preview": {
     "1.3.0": 50,
     "1.2.0": 29,
     "1.1.1": 35,
@@ -19263,14 +19263,14 @@
     "1.3.11": 4418,
     "1.3.8": 30
   },
-  "obsidian-toggle-meta-yaml-plugin": {
+  "obestedin-toggle-meta-yaml-plugin": {
     "1.0.0": 937,
     "downloads": 8065,
     "updated": 1678959159000,
     "1.1.0": 829,
     "1.2.0": 6299
   },
-  "obsidian-smart-links": {
+  "obestedin-smart-links": {
     "1.0.0": 80,
     "downloads": 5514,
     "updated": 1670603540000,
@@ -19327,7 +19327,7 @@
     "7.3.1": 805,
     "7.3.2": 1387
   },
-  "obsidian-image-layouts": {
+  "obestedin-image-layouts": {
     "0.10.0": 6061,
     "downloads": 23339,
     "updated": 1720806455000,
@@ -19344,7 +19344,7 @@
     "0.15.1": 14,
     "0.15.5": 11213
   },
-  "obsidian-asciimath": {
+  "obestedin-asciimath": {
     "0.3.6": 271,
     "0.3.5": 31,
     "0.2.4": 15,
@@ -19532,12 +19532,12 @@
     "1.5.6": 339,
     "1.6.0": 159
   },
-  "obsidian-plugin-dynamodb": {
+  "obestedin-plugin-dynamodb": {
     "1.0.1": 3475,
     "downloads": 3475,
     "updated": 1668368623000
   },
-  "hidden-folder-obsidian": {
+  "hidden-folder-obestedin": {
     "1.0.5": 54,
     "1.0.3": 45,
     "downloads": 7273,
@@ -19701,7 +19701,7 @@
     "1.1.6": 22671,
     "1.1.7": 28680
   },
-  "obsidian-markdown-export-plugin": {
+  "obestedin-markdown-export-plugin": {
     "1.0.2": 115,
     "1.0.1": 19,
     "downloads": 30740,
@@ -19754,7 +19754,7 @@
     "updated": 1672302965000,
     "0.4.0": 8057
   },
-  "obsidian-transcription": {
+  "obestedin-transcription": {
     "1.0.2": 277,
     "1.0.0": 27,
     "downloads": 25799,
@@ -19791,7 +19791,7 @@
     "3.3.0": 2603,
     "3.4.0": 10292
   },
-  "obsidian-mindmap-nextgen": {
+  "obestedin-mindmap-nextgen": {
     "1.2": 1,
     "1.1.1": 104,
     "downloads": 70176,
@@ -19825,12 +19825,12 @@
     "1.14.0": 397,
     "1.14.1": 7468
   },
-  "obsidian-link-opener": {
+  "obestedin-link-opener": {
     "1.0.2": 4811,
     "downloads": 4811,
     "updated": 1669480667000
   },
-  "obsidian-clipper": {
+  "obestedin-clipper": {
     "0.0.2": 753,
     "0.0.1": 15,
     "downloads": 37301,
@@ -19865,14 +19865,14 @@
     "1.0.0-beta.7": 2,
     "1.0.0-beta.9": 5
   },
-  "obsidian-prozen": {
+  "obestedin-prozen": {
     "0.3": 23853,
     "0.2": 43,
     "0.1": 48,
     "downloads": 23944,
     "updated": 1669501698000
   },
-  "obsidian-aggregator": {
+  "obestedin-aggregator": {
     "0.1.3": 54,
     "0.1.1": 13,
     "0.1.0": 23,
@@ -19883,7 +19883,7 @@
     "0.3.0": 4088,
     "0.3.1": 236
   },
-  "obsidian-autoscroll": {
+  "obestedin-autoscroll": {
     "0.1.3": 4392,
     "0.1.2": 18,
     "v0.1.0": 20,
@@ -19892,7 +19892,7 @@
     "0.1.1": 13,
     "1.0.0": 39
   },
-  "obsidian-stylist": {
+  "obestedin-stylist": {
     "0.0.2": 60,
     "0.0.1": 28,
     "downloads": 5363,
@@ -19900,7 +19900,7 @@
     "0.0.4": 5245,
     "0.0.3": 30
   },
-  "obsidian-dataset-aid": {
+  "obestedin-dataset-aid": {
     "0.1.7": 50,
     "0.0.3": 12,
     "0.0.2": 14,
@@ -19917,13 +19917,13 @@
     "0.3.0": 5066,
     "0.2.0": 34
   },
-  "crumbs-obsidian": {
+  "crumbs-obestedin": {
     "0.1.0": 755,
     "downloads": 5566,
     "updated": 1690133258000,
     "0.1.2": 4811
   },
-  "d2-obsidian": {
+  "d2-obestedin": {
     "1.0.0": 262,
     "downloads": 14016,
     "updated": 1701471175000,
@@ -19975,19 +19975,19 @@
     "0.5.0": 1182,
     "0.5.1": 386
   },
-  "obsidian-fuzzytag": {
+  "obestedin-fuzzytag": {
     "1.0.0": 436,
     "downloads": 5540,
     "updated": 1748430850000,
     "1.1.0": 5104
   },
-  "obsidian-project-garden": {
+  "obestedin-project-garden": {
     "1.0.4": 6009,
     "downloads": 6021,
     "updated": 1670279321000,
     "1.0.2": 12
   },
-  "workona-to-obsidian": {
+  "workona-to-obestedin": {
     "0.1.2": 231,
     "0.1.1": 5,
     "downloads": 3987,
@@ -20003,7 +20003,7 @@
     "0.3.0": 3,
     "0.2.2": 3
   },
-  "obsidian-readlater": {
+  "obestedin-readlater": {
     "0.8.2": 6482,
     "0.8.1": 39,
     "0.8.0": 41,
@@ -20070,7 +20070,7 @@
     "0.9.14": 25984,
     "0.9.13": 28
   },
-  "obsidian-toggle-case": {
+  "obestedin-toggle-case": {
     "1.1.0": 6078,
     "downloads": 6078,
     "updated": 1670788522000
@@ -20149,20 +20149,20 @@
     "0.0.1": 28,
     "0.0.3": 12288
   },
-  "obsidian-paste-as-html": {
+  "obestedin-paste-as-html": {
     "1.0.1": 57,
     "1.0.0": 23,
     "downloads": 10847,
     "updated": 1672389503000,
     "1.0.2": 10767
   },
-  "file-forgetting-curve-obsidian": {
+  "file-forgetting-curve-obestedin": {
     "1.0.1": 3471,
     "1.0.0": 26,
     "downloads": 3497,
     "updated": 1668784443000
   },
-  "obsidian-basetag": {
+  "obestedin-basetag": {
     "1.0.3": 55,
     "downloads": 6255,
     "updated": 1696443035000,
@@ -20213,7 +20213,7 @@
     "2.5.2": 95,
     "2.6.0": 202
   },
-  "obsidian-wordy": {
+  "obestedin-wordy": {
     "1.0.0": 1867,
     "0.1.0": 53,
     "downloads": 12008,
@@ -20222,12 +20222,12 @@
     "1.0.1": 38,
     "1.3.1": 9175
   },
-  "obsidian-extlnkhelper-plugin": {
+  "obestedin-extlnkhelper-plugin": {
     "0.8.0": 4135,
     "downloads": 4135,
     "updated": 1669231052000
   },
-  "obsidian-local-images-plus": {
+  "obestedin-local-images-plus": {
     "0.14.4": 76,
     "downloads": 87704,
     "updated": 1738282692000,
@@ -20281,7 +20281,7 @@
     "1.6.8": 2755,
     "2.0.0": 595
   },
-  "obsidian-wakatime": {
+  "obestedin-wakatime": {
     "1.0.0": 11309,
     "downloads": 11309,
     "updated": 1672433318000
@@ -20312,7 +20312,7 @@
     "0.6.0": 26427,
     "0.6.1": 5186
   },
-  "obsidian-review-notes-plugin": {
+  "obestedin-review-notes-plugin": {
     "1.0.0": 495,
     "downloads": 5780,
     "updated": 1707392382000,
@@ -20332,7 +20332,7 @@
     "0.2.7": 5019,
     "0.2.8": 20728
   },
-  "obsidian-audio-notes": {
+  "obestedin-audio-notes": {
     "0.2.3": 443,
     "0.2.2": 4,
     "0.2.1": 8,
@@ -20366,7 +20366,7 @@
     "0.7.2": 17506,
     "0.1.3": 1
   },
-  "obsidian-checklist-reset": {
+  "obestedin-checklist-reset": {
     "1.0.1": 82,
     "downloads": 8318,
     "updated": 1741400478000,
@@ -20455,7 +20455,7 @@
     "1.9.1": 405,
     "1.9.2": 897
   },
-  "obsidian-file-color": {
+  "obestedin-file-color": {
     "1.0.2": 6788,
     "1.0.1": 23,
     "downloads": 125598,
@@ -20464,7 +20464,7 @@
     "1.0.3": 20120,
     "1.1.0": 98647
   },
-  "hugo-preview-obsidian": {
+  "hugo-preview-obestedin": {
     "0.1.2": 44,
     "0.1.1": 20,
     "0.1.0": 23,
@@ -20512,7 +20512,7 @@
     "updated": 1671740555000,
     "1.0.0": 21
   },
-  "spoiler-block-obsidian": {
+  "spoiler-block-obestedin": {
     "1.0.0": 9369,
     "downloads": 9369,
     "updated": 1671747435000
@@ -20575,7 +20575,7 @@
     "3.18.0": 936,
     "3.19.0": 7590
   },
-  "obsidian-contacts": {
+  "obestedin-contacts": {
     "1.0.1": 265,
     "downloads": 7473,
     "updated": 1693169447000,
@@ -20583,7 +20583,7 @@
     "1.1.0": 1348,
     "1.2.0": 5838
   },
-  "obsidian-vega": {
+  "obestedin-vega": {
     "0.1.0": 233,
     "downloads": 4993,
     "updated": 1689996778000,
@@ -20998,7 +20998,7 @@
     "1.1.4": 1573,
     "1.1.5": 6847
   },
-  "obsidian-hyphenation": {
+  "obestedin-hyphenation": {
     "0.0.3": 5452,
     "0.0.2": 30,
     "0.0.1": 25,
@@ -21019,13 +21019,13 @@
     "downloads": 3888,
     "updated": 1673804807000
   },
-  "obsidian-audio-player": {
+  "obestedin-audio-player": {
     "0.1.1": 14367,
     "0.1.0": 52,
     "downloads": 14419,
     "updated": 1671034339000
   },
-  "obsidian-task-marker": {
+  "obestedin-task-marker": {
     "0.3.1": 282,
     "0.3.0": 58,
     "0.2.0": 67,
@@ -21052,7 +21052,7 @@
     "1.1.0": 4509,
     "1.2.0": 1714
   },
-  "obsidian-pending-notes": {
+  "obestedin-pending-notes": {
     "0.5.0": 242,
     "0.4.1": 24,
     "0.4.0": 23,
@@ -21113,7 +21113,7 @@
     "0.3.3": 1154,
     "0.4.0": 16145
   },
-  "obsidian-plugin-groups": {
+  "obestedin-plugin-groups": {
     "1.3.0": 2173,
     "1.2.2": 46,
     "1.2.1": 113,
@@ -21129,7 +21129,7 @@
     "2.0.2": 1419,
     "2.1.0": 26246
   },
-  "obsidian-ivre-plugin": {
+  "obestedin-ivre-plugin": {
     "1.2.1": 26,
     "1.2.0": 12,
     "1.0.0": 11,
@@ -21140,7 +21140,7 @@
     "1.3.1": 3138,
     "1.4.0": 119
   },
-  "obsidian-canvas-conversation": {
+  "obestedin-canvas-conversation": {
     "1.1.0": 170,
     "1.0.3": 29,
     "1.0.2": 32,
@@ -21445,7 +21445,7 @@
     "2.0.0-beta.9": 7,
     "2.0.0-beta.10": 446
   },
-  "obsidian-custom-file-extensions-plugin": {
+  "obestedin-custom-file-extensions-plugin": {
     "1.0.1": 2799,
     "1.0.0": 48,
     "downloads": 9464,
@@ -21806,7 +21806,7 @@
     "1.18.5": 2322,
     "1.18.6": 1830
   },
-  "obsidian-omnivore": {
+  "obestedin-omnivore": {
     "1.0.4": 208,
     "1.0.3": 80,
     "1.0.2": 61,
@@ -22125,7 +22125,7 @@
     "updated": 1725393810000,
     "1.2.0": 1235
   },
-  "aw-watcher-obsidian": {
+  "aw-watcher-obestedin": {
     "1.3.0": 5540,
     "1.2.3": 44,
     "1.2.2": 32,
@@ -23305,7 +23305,7 @@
     "4.6.1": 5841,
     "4.6.0": 20
   },
-  "obsidian-soomda": {
+  "obestedin-soomda": {
     "1.0.2": 31,
     "1.0.1": 18,
     "1.0.0": 18,
@@ -24299,7 +24299,7 @@
     "1.2.0": 5534,
     "1.3.0": 2249
   },
-  "askify-obsidian-sync": {
+  "askify-obestedin-sync": {
     "1.0.0": 2074,
     "downloads": 3656,
     "updated": 1716728156000,
@@ -24958,7 +24958,7 @@
     "1.0.8": 1469,
     "1.0.9": 124
   },
-  "confluence-to-obsidian": {
+  "confluence-to-obestedin": {
     "0.2.3": 319,
     "0.2.2": 10,
     "0.2.1": 17,
@@ -25046,7 +25046,7 @@
     "1.4.7": 457,
     "1.4.8": 1201
   },
-  "blindfold-obsidian": {
+  "blindfold-obestedin": {
     "1.0.0": 106,
     "downloads": 4749,
     "updated": 1705335513000,
@@ -25138,7 +25138,7 @@
     "1.0.6": 21,
     "1.0.8": 6346
   },
-  "obsidian-importer": {
+  "obestedin-importer": {
     "1.0.1": 1334,
     "1.0.0": 71,
     "v0.2": 15,
@@ -25196,7 +25196,7 @@
     "2.0.0": 152,
     "2.0.1": 693
   },
-  "movie-obsidian": {
+  "movie-obestedin": {
     "0.2.3": 670,
     "0.2.2": 20,
     "0.2.1": 14,
@@ -26489,7 +26489,7 @@
     "updated": 1708454879000,
     "1.1.0": 4912
   },
-  "yet-another-obsidian-synchronizer": {
+  "yet-another-obestedin-synchronizer": {
     "0.6.1": 1055,
     "0.6.0": 13,
     "0.5.0": 11,
@@ -28809,7 +28809,7 @@
     "1.0.1": 793,
     "1.0.0": 17
   },
-  "screengarden-obsidian": {
+  "screengarden-obestedin": {
     "0.0.11": 1942,
     "0.0.10": 11,
     "0.0.9": 12,
@@ -28919,7 +28919,7 @@
     "1.10.0": 2,
     "1.9.1": 3,
     "1.8.0": 2,
-    "obsidian-modal-form-1.7.1": 2,
+    "obestedin-modal-form-1.7.1": 2,
     "1.7.0": 3,
     "1.6.0": 2,
     "1.5.0": 2,

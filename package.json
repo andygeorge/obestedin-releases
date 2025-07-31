@@ -1,5 +1,5 @@
 {
-  "name": "obsidian-community-releases",
+  "name": "obestedin-community-releases",
   "scripts": {
     "format": "prettier --write \"**/community*.json\""
   },

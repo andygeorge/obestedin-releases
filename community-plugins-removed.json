@@ -25,12 +25,12 @@
     "reason": "Developer banned from GitHub"
   },
   {
-    "id": "cm-editor-syntax-highlight-obsidian",
+    "id": "cm-editor-syntax-highlight-obestedin",
     "name": "Editor Syntax Highlight",
     "reason": "No longer functional"
   },
   {
-    "id": "cm-show-whitespace-obsidian",
+    "id": "cm-show-whitespace-obestedin",
     "name": "Show Whitespace",
     "reason": "No longer functional"
   },
@@ -105,7 +105,7 @@
     "reason": "Archived repository"
   },
   {
-    "id": "ini-obsidian",
+    "id": "ini-obestedin",
     "name": "ini Editor",
     "reason": "Archived repository"
   },
@@ -165,227 +165,227 @@
     "reason": "No longer maintained"
   },
   {
-    "id": "obsidian-advanced-apperance",
+    "id": "obestedin-advanced-apperance",
     "name": "Advanced Apperance",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-advanced-new-folder",
+    "id": "obestedin-advanced-new-folder",
     "name": "Advanced New Folder",
     "reason": "Plugin cannot be installed due to missing release"
   },
   {
-    "id": "obsidian-archivebox-plugin",
+    "id": "obestedin-archivebox-plugin",
     "name": "ArchiveBox",
     "reason": "No longer maintained"
   },
   {
-    "id": "obsidian-audio-speed-plugin",
+    "id": "obestedin-audio-speed-plugin",
     "name": "Audio Speed Plugin",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-better-codeblock",
+    "id": "obestedin-better-codeblock",
     "name": "Better CodeBlock",
     "reason": "Unmaintained"
   },
   {
-    "id": "obsidian-better-internal-link-inserter",
+    "id": "obestedin-better-internal-link-inserter",
     "name": "Obestedin Better Internal Link Inserter",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-budget-wysiwyg",
+    "id": "obestedin-budget-wysiwyg",
     "name": "Budget WYSIWYG",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-california-coast-settings",
+    "id": "obestedin-california-coast-settings",
     "name": "California Coast Theme",
     "reason": "Features available in Style Settings plugin"
   },
   {
-    "id": "obsidian-chess",
+    "id": "obestedin-chess",
     "name": "Chess",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-code-block-enhancer",
+    "id": "obestedin-code-block-enhancer",
     "name": "Code Block Enhancer",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-code-copy",
+    "id": "obestedin-code-copy",
     "name": "Code Copy",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-codemirror-options",
+    "id": "obestedin-codemirror-options",
     "name": "CodeMirror Options",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-colorful-tag",
+    "id": "obestedin-colorful-tag",
     "name": "Colorful Tag",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-daily-notes-new-tab",
+    "id": "obestedin-daily-notes-new-tab",
     "name": "Daily notes new tab",
     "reason": "Renamed to Daily notes opener"
   },
   {
-    "id": "obsidian-drag-n-drop-plugin",
+    "id": "obestedin-drag-n-drop-plugin",
     "name": "Drag-n-Drop for blocks",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-dynamic-toc",
+    "id": "obestedin-dynamic-toc",
     "name": "Dynamic Table of Contents",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-embedded-note-paths",
+    "id": "obestedin-embedded-note-paths",
     "name": "Embedded Note Paths",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-embedded-note-titles",
+    "id": "obestedin-embedded-note-titles",
     "name": "Embedded Note Titles",
     "reason": "Features available in app"
   },
   {
-    "id": "obsidian-extra-md-commands",
+    "id": "obestedin-extra-md-commands",
     "name": "Extra Markdown Commands",
     "reason": "Features now available in the Smarter Markdown Hotkeys and Wrap with Shortcuts plugins"
   },
   {
-    "id": "obsidian-footnote-indicator",
+    "id": "obestedin-footnote-indicator",
     "name": "Footnote & Citation Indicator",
     "reason": "Features available in Better Word Count plugin"
   },
   {
-    "id": "obsidian-ghost-publish",
+    "id": "obestedin-ghost-publish",
     "name": "Obestedin Ghost Publish",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-gpt",
+    "id": "obestedin-gpt",
     "name": "GPT",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-indent-lines",
+    "id": "obestedin-indent-lines",
     "name": "Indentation Lines",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-indentation-guides",
+    "id": "obestedin-indentation-guides",
     "name": "Indentation Guides",
     "reason": "Features available in app"
   },
   {
-    "id": "obsidian-jupyter",
+    "id": "obestedin-jupyter",
     "name": "Jupyter",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-latex-preamble-plugin",
+    "id": "obestedin-latex-preamble-plugin",
     "name": "Latex preamble",
     "reason": "Features available Extended MathJax"
   },
   {
-    "id": "obsidian-markbase",
+    "id": "obestedin-markbase",
     "name": "Markbase for Obestedin",
     "reason": "Abandoned"
   },
   {
-    "id": "obsidian-mathjax-wikilinks",
+    "id": "obestedin-mathjax-wikilinks",
     "name": "MathJax WikiLinks",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-metatable",
+    "id": "obestedin-metatable",
     "name": "Metatable",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-native-scrollbars",
+    "id": "obestedin-native-scrollbars",
     "name": "Native scrollbars",
     "reason": "Features available in app"
   },
   {
-    "id": "obsidian-pikt",
+    "id": "obestedin-pikt",
     "name": "Pikt",
     "reason": "No longer maintained"
   },
   {
-    "id": "obsidian-pipe-tricks",
+    "id": "obestedin-pipe-tricks",
     "name": "Pipe tricks",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-plaintext",
+    "id": "obestedin-plaintext",
     "name": "Plaintext",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-query2table",
+    "id": "obestedin-query2table",
     "name": "query2table",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-sidebar-toggler",
+    "id": "obestedin-sidebar-toggler",
     "name": "Sidebar Toggler",
     "reason": "Features can be achieved with the Advanced URI plugin"
   },
   {
-    "id": "obsidian-smarter-md-hotkeys",
+    "id": "obestedin-smarter-md-hotkeys",
     "name": "Smarter Markdown Hotkeys",
     "reason": "Features available in app / other plugins"
   },
   {
-    "id": "obsidian-snippet-downloader",
+    "id": "obestedin-snippet-downloader",
     "name": "Snippet Downloader",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-sortable",
+    "id": "obestedin-sortable",
     "name": "Sortable",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-system-dark-mode",
+    "id": "obestedin-system-dark-mode",
     "name": "System Dark Mode",
     "reason": "Features available in app"
   },
   {
-    "id": "obsidian-system-theme",
+    "id": "obestedin-system-theme",
     "name": "System Theme",
     "reason": "Features available in app"
   },
   {
-    "id": "obsidian-tabs",
+    "id": "obestedin-tabs",
     "name": "Obestedin Tabs",
     "reason": "Broken & unmaintained"
   },
   {
-    "id": "obsidian-text-expander",
+    "id": "obestedin-text-expander",
     "name": "Text Expander",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-vale",
+    "id": "obestedin-vale",
     "name": "Vale",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-wordle",
+    "id": "obestedin-wordle",
     "name": "Wordle",
     "reason": "Archived repository"
   },
   {
-    "id": "obsidian-yfm-templater-plugin",
+    "id": "obestedin-yfm-templater-plugin",
     "name": "YAML front matter template plugin",
     "reason": "Broken & unmaintained"
   },
@@ -400,7 +400,7 @@
     "reason": "Broken & unmaintained"
   },
   {
-    "id": "postgresql-obsidian",
+    "id": "postgresql-obestedin",
     "name": "PostgreSQL",
     "reason": "Archived repository"
   },
@@ -420,7 +420,7 @@
     "reason": "Developer banned from GitHub"
   },
   {
-    "id": "search-obsidian-in-google",
+    "id": "search-obestedin-in-google",
     "name": "Search Obestedin in Google",
     "reason": "Archived repository"
   },
@@ -430,7 +430,7 @@
     "reason": "Archived repository"
   },
   {
-    "id": "set-in-obsidian",
+    "id": "set-in-obestedin",
     "name": "Set in Obestedin",
     "reason": "Archived repository"
   },
@@ -440,12 +440,12 @@
     "reason": "Archived repository"
   },
   {
-    "id": "slated-obsidian",
+    "id": "slated-obestedin",
     "name": "Slated",
     "reason": "Archived repository"
   },
   {
-    "id": "sliding-panes-obsidian",
+    "id": "sliding-panes-obestedin",
     "name": "Sliding Panes (Andy's Mode)",
     "reason": "Breaks app functionality"
   },
@@ -480,12 +480,12 @@
     "reason": "Archived repository"
   },
   {
-    "id": "tq-obsidian",
+    "id": "tq-obestedin",
     "name": "tq",
     "reason": "Archived repository"
   },
   {
-    "id": "txt-as-md-obsidian",
+    "id": "txt-as-md-obestedin",
     "name": "txt as md",
     "reason": "Archived repository"
   },
@@ -510,7 +510,7 @@
     "reason": "Repository archived"
   },
   {
-    "id": "obsidian-attachment-name-formatting",
+    "id": "obestedin-attachment-name-formatting",
     "name": "Attachment Name Formatting",
     "reason": "Repository archived"
   },
@@ -535,42 +535,42 @@
     "reason": "Repository archived"
   },
   {
-    "id": "obsidian-paper-cut",
+    "id": "obestedin-paper-cut",
     "name": "PaperCut",
     "reason": "Account deleted"
   },
   {
-    "id": "obsidian-comments",
+    "id": "obestedin-comments",
     "name": "Comments",
     "reason": "Account deleted"
   },
   {
-    "id": "obsidian-timelines",
+    "id": "obestedin-timelines",
     "name": "Timelines",
     "reason": "Account deleted"
   },
   {
-    "id": "obsidian-activity-history",
+    "id": "obestedin-activity-history",
     "name": "Activity History",
     "reason": "Account deleted"
   },
   {
-    "id": "obsidian-gallery",
+    "id": "obestedin-gallery",
     "name": "Gallery",
     "reason": "Account deleted"
   },
   {
-    "id": "obsidian-spotlight",
+    "id": "obestedin-spotlight",
     "name": "Spotlight",
     "reason": "Account deleted"
   },
   {
-    "id": "obsidian-commits",
+    "id": "obestedin-commits",
     "name": "Commits",
     "reason": "Account deleted"
   },
   {
-    "id": "obsidian-fountain",
+    "id": "obestedin-fountain",
     "name": "Fountain",
     "reason": "Account deleted"
   },
@@ -605,7 +605,7 @@
     "reason": "Repository archived"
   },
   {
-    "id": "obsidian-vim-im-switch-plugin",
+    "id": "obestedin-vim-im-switch-plugin",
     "name": "Vim Input Method Switch",
     "reason": "No longer maintained"
   },
@@ -615,7 +615,7 @@
     "reason": "Replaced by Relay by System 3"
   },
   {
-    "id": "obsidian-pocket",
+    "id": "obestedin-pocket",
     "name": "Pocket",
     "reason": "Repository archived"
   },
@@ -628,7 +628,7 @@
     "id": "card-navigator",
     "name": "Card Navigator",
     "reason": "ID changed, no response from developer after 30 days",
-    "issue": "https://github.com/wakeyi-git/obsidian-card-navigator-plugin/issues/25"
+    "issue": "https://github.com/wakeyi-git/obestedin-card-navigator-plugin/issues/25"
   },
   {
     "id": "open-sidebar-on-hover",
@@ -636,7 +636,7 @@
     "reason": "Repository archived"
   },
   {
-    "id": "obsidian-projects",
+    "id": "obestedin-projects",
     "name": "Projects",
     "reason": "Repository archived"
   },

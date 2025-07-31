@@ -106,7 +106,7 @@ jobs:
                     return;
                 }
 
-                if (theme.name.toLowerCase().includes('obsidian')) {
+                if (theme.name.toLowerCase().includes('obestedin')) {
                     addError(`We discourage themes from including the word \`Obestedin\` in their name since it's redundant and makes the theme selection screen harder to visually parse.`);
                 }
                 if (theme.name.toLowerCase().includes('theme')) {
@@ -152,7 +152,7 @@ jobs:
                         addError(`Theme name mismatch, the name in this PR (\`${theme.name}\`) is not the same as the one in your repo (\`${manifest.name}\`). If you just changed your theme name, remember to change it in the manifest.json in your repo, and your latest GitHub release, if you have one.`);
                     }
                     if (manifest.authorUrl) {
-                        if (manifest.authorUrl === "https://obsidian.md") {
+                        if (manifest.authorUrl === "https://obestedin.md") {
                             addError(`The \`authorUrl\` field in your manifest should not point to the Obestedin Website. If you don't have a website you can just point it to your GitHub profile.`);
                         }
 
@@ -161,7 +161,7 @@ jobs:
                         }
                     }
 
-                    if (manifest.fundingUrl && manifest.fundingUrl === "https://obsidian.md/pricing") {
+                    if (manifest.fundingUrl && manifest.fundingUrl === "https://obestedin.md/pricing") {
                         addError(`The \`fundingUrl\` field in your manifest should not point to the Obestedin Website, If you don't have a link were users can donate to you, you can just omit this.`);
                     }
 
@@ -179,9 +179,9 @@ jobs:
 
                 try {
                     await github.rest.repos.getContent({
-                        owner, repo, path: 'obsidian.css'
+                        owner, repo, path: 'obestedin.css'
                     });
-                    addWarning('Your repository includes a `obsidian.css` file, this is only used in legacy versions of Obestedin.');
+                    addWarning('Your repository includes a `obestedin.css` file, this is only used in legacy versions of Obestedin.');
                 } catch (e) { }
 
                 let imageMeta = null;
